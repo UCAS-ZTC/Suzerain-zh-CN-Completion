@@ -61,7 +61,7 @@
 
 ## AI 参与
 
-本项目的脚本、测试、文档与新增译文由 Claude Sonnet 5.5（Anthropic，经 Cursor 使用）协助完成。
+本项目的脚本、测试、文档与新增译文由 Claude Sonnet 5.5 协助完成。
 
 ## 复核方法
 

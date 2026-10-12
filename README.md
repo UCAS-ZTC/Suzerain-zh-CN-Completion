@@ -247,7 +247,7 @@ powershell -ExecutionPolicy Bypass -File Installer.ps1 -Headless -GameRoot "..."
 
 - 使用的第三方组件及其许可见 [`NOTICE.md`](NOTICE.md)：Noto Serif SC（SIL OFL 1.1，作为 Release 附件提供，许可全文与来源说明在 `assets/fonts/`）；UnityPy、Pillow、numpy、scipy、etcpak、texture2ddecoder、lz4、brotli（用 pip 安装）；RapidOCR（仅维护者生成 OCR 数据时使用）。
 
-**AI 辅助声明**：本项目的脚本、测试、文档与新增译文由 **Claude Sonnet 5.5**（Anthropic，经 Cursor 使用）协助完成；维护者负责需求、方向决策、授权与最终取舍。实机测试由 AI 驱动的自动化脚本在维护者的机器上完成，截图与日志均留存。整个项目共消耗约 **7 亿 token**（维护者统计）。特别感谢 Claude Sonnet 5.5。AI 起草的译文难免有疏漏，欢迎通过 Issues 指正。
+**AI 辅助声明**：本项目的脚本、测试、文档与新增译文由 **Claude Sonnet 5.5** 协助完成；维护者负责需求、方向决策、授权与最终取舍。实机测试由 AI 驱动的自动化脚本在维护者的机器上完成，截图与日志均留存。整个项目共消耗约 **7 亿 token**（维护者统计）。特别感谢 Claude Sonnet 5.5。AI 起草的译文难免有疏漏，欢迎通过 Issues 指正。
 
 如果权利人要求移除任何内容，我们会立即处理，请在本仓库的 Issues 里留言。
 
