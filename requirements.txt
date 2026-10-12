@@ -1,0 +1,10 @@
+# Versions the maintainer's packs were built and tested with (Python 3.11).
+# Byte-identical rebuilds are only expected with exactly these versions.
+UnityPy==1.25.4
+Pillow==12.3.0
+numpy==2.4.3
+scipy==1.17.1
+etcpak==0.9.15
+texture2ddecoder==1.0.6
+lz4==4.4.5
+brotli==1.2.0

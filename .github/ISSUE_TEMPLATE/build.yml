@@ -1,0 +1,54 @@
+name: 构建 / 安装失败
+description: python build.py 或安装器报错、卡住，或结果与预期不一致
+title: "[构建] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        开之前请先看 README 里“构建遇到问题时”那一节：游戏文件已被别的汉化改过、Python 或依赖版本不对、路径太深、下载失败，大多数情况那里都有答案。
+        构建器只读取你的游戏目录，不会修改它。
+  - type: textarea
+    id: command
+    attributes:
+      label: 你运行的命令
+      render: text
+      placeholder: python build.py --game "D:\SteamLibrary\steamapps\common\Suzerain"
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: 报错信息或你看到的现象
+      description: 把终端里相关的几行完整复制过来，不要只描述。
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: build.log 的末尾
+      description: 文件在 `_work/logs/build.log`，请贴最后 40 行左右；如果是某个生成器失败，也请贴 `_work/logs/` 里对应的日志末尾。
+      render: text
+  - type: input
+    id: python
+    attributes:
+      label: Python 版本
+      description: 在终端里运行 python --version。
+      placeholder: Python 3.11.x
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: 游戏版本
+      description: 本补丁针对 3.1.0 Build 175。
+      placeholder: 3.1.0 Build 175
+    validations:
+      required: true
+  - type: checkboxes
+    id: checked
+    attributes:
+      label: 我已经确认
+      options:
+        - label: 游戏文件是原版（没装过别的汉化，或已在 Steam 里“验证游戏文件的完整性”）
+        - label: 已经按 README 的“构建遇到问题时”那一节试过

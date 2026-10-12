@@ -1,0 +1,8 @@
+{
+"_comment": "pids whose old Chinese paragraph was judged a faithful translation of the current English (flagged only by structural heuristics: merged sentences, number format, moved sentences); kept as is",
+"accept": [
+"586c536e", "c024c201",
+"f7e3b943", "92f01d2f", "bd39a99c", "76fb07d0", "cf45ed85",
+"f91f2c4c", "0ce3fbd6", "e91d438c", "aa2e5af0", "a7806f7e", "c6c051d8", "25ccf47f", "0177578f", "05d1157c", "e0cf020f", "3a59ae8d"
+]
+}

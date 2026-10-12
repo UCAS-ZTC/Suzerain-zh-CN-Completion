@@ -1,0 +1,497 @@
+[
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_agnolia.png_d5bc1b2e96bcd683ae4aa7e06869cb69.bundle",
+"pid": -7624941817469584744,
+"t": "Texture2D",
+"n": "Heljiland_Agnolia",
+"w": 1024,
+"h": 1024,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_default.png_f5ad19b6dac69b0ba3ed011d5ae4c823.bundle",
+"pid": -3451069659513298388,
+"t": "Texture2D",
+"n": "Heljiland_Default",
+"w": 1024,
+"h": 1024,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_invaded.png_8c1a5da586378b21e8a0232d86b2e72f.bundle",
+"pid": 7999488235007087469,
+"t": "Texture2D",
+"n": "Heljiland_Invaded",
+"w": 1024,
+"h": 1024,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_valgsland.png_2f2e1d105262aac027788450c90d0d2e.bundle",
+"pid": -6367248200000911149,
+"t": "Texture2D",
+"n": "Heljiland_Valgsland",
+"w": 1024,
+"h": 1024,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -3935384279696585328,
+"t": "Texture2D",
+"n": "T_Map_Pales_01",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -4055546178390527960,
+"t": "Texture2D",
+"n": "T_Map_Pales_02",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": 2481477441486441197,
+"t": "Texture2D",
+"n": "T_Map_Pales_03",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -5972580817765938073,
+"t": "Texture2D",
+"n": "T_Map_Pales_04",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -7577196903001800329,
+"t": "Texture2D",
+"n": "T_Map_Pales_05",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -4141925634031621951,
+"t": "Texture2D",
+"n": "T_Map_Pales_06",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_01.png_500bb0b2897c5459b98e3e19a07bb140.bundle",
+"pid": 497137511528626135,
+"t": "Texture2D",
+"n": "T_Map_Rizia_01",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_02.png_db6ae10059743a2c9e81d85e60752b22.bundle",
+"pid": -4186820799354490714,
+"t": "Texture2D",
+"n": "T_Map_Rizia_02",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_03.png_5e993aad7b2ee048e35fdbb4cd046892.bundle",
+"pid": -8803985314432550171,
+"t": "Texture2D",
+"n": "T_Map_Rizia_03",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_04.png_401eeeec47c957e563eb602e6a554d5d.bundle",
+"pid": 6264474766968566553,
+"t": "Texture2D",
+"n": "T_Map_Rizia_04",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_prefabs_sordland_environment_sordland_war.prefab_9e7d9998c690688fd50d4d5d828a343d.bundle",
+"pid": 993723754375855719,
+"t": "Texture2D",
+"n": "T_Map_RumburgWar_01",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_prefabs_sordland_maps_sordland_sordland_war.prefab_ab52897e95916dbb3fba7c0a1eea6781.bundle",
+"pid": 993723754375855719,
+"t": "Texture2D",
+"n": "T_Map_RumburgWar_01",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_prefabs_sordland_environment_sordland_war.prefab_9e7d9998c690688fd50d4d5d828a343d.bundle",
+"pid": -766648981334786721,
+"t": "Texture2D",
+"n": "T_Map_RumburgWar_02",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_prefabs_sordland_maps_sordland_sordland_war.prefab_ab52897e95916dbb3fba7c0a1eea6781.bundle",
+"pid": -766648981334786721,
+"t": "Texture2D",
+"n": "T_Map_RumburgWar_02",
+"w": 4096,
+"h": 4096,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_01.png_09b0e9c8b2ab6bef819c61973c6a51d2.bundle",
+"pid": -7007309816272413760,
+"t": "Texture2D",
+"n": "T_Map_Sordland_01",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_02.png_8537e59d5dc39113700857a334baf031.bundle",
+"pid": 5814120176806632726,
+"t": "Texture2D",
+"n": "T_Map_Sordland_02",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_03.png_ef13d53d26cb48e89c404157363a5ab7.bundle",
+"pid": 6427129501039387128,
+"t": "Texture2D",
+"n": "T_Map_Sordland_03",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_04.png_9d8aa9a3fa49a6b8a5699d3fe5d6f4f8.bundle",
+"pid": -830042552501635403,
+"t": "Texture2D",
+"n": "T_Map_Sordland_04",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": -6884620560143051818,
+"t": "Texture2D",
+"n": "T_Map_World_01",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": 7501361696078834243,
+"t": "Texture2D",
+"n": "T_Map_World_02",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": 371658602707796429,
+"t": "Texture2D",
+"n": "T_Map_World_03",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": -235314646242406794,
+"t": "Texture2D",
+"n": "T_Map_World_04",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": -6365213680791713220,
+"t": "Texture2D",
+"n": "T_Map_World_05",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": -819203981797047118,
+"t": "Texture2D",
+"n": "T_Map_World_06",
+"w": 4096,
+"h": 4096,
+"fmt": "10"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_agnlandregion.png_5c32ac815bef06271334ab97d67b66dc.bundle",
+"pid": -1283183355499770368,
+"t": "Texture2D",
+"n": "c_agnlandregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_bergiaregion.png_12a50d71fa30d3f94036e3435bd8c250.bundle",
+"pid": 1491737217914054076,
+"t": "Texture2D",
+"n": "c_bergiaregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_brenasregion.png_fb347fa336707de9cf66b480cc521d6a.bundle",
+"pid": 4425138242911468812,
+"t": "Texture2D",
+"n": "c_brenasregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_cardessemontaklarregion.png_8c5299d823e67689240898fbbd2c7895.bundle",
+"pid": -6119147314476359828,
+"t": "Texture2D",
+"n": "c_cardessemontaklarregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_gelslandregion.png_85305e59d8d210b925fbe689e27908bb.bundle",
+"pid": -4424955323536112022,
+"t": "Texture2D",
+"n": "c_gelslandregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_greaterholsordregion.png_6c0aac99197e12a7c65bc4ba0bc8215b.bundle",
+"pid": -6731192213041233427,
+"t": "Texture2D",
+"n": "c_greaterholsordregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_gruniregion.png_1f0c31543179a34104ef188812ee987c.bundle",
+"pid": 1020964287563393333,
+"t": "Texture2D",
+"n": "c_gruniregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_lorrenregion.png_41f9a799c9855be0a854a19ac58263a7.bundle",
+"pid": -1330689832887743185,
+"t": "Texture2D",
+"n": "c_lorrenregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_nargisregion.png_ff4383f1b638082b503c0cd123938b3e.bundle",
+"pid": -762912084848905234,
+"t": "Texture2D",
+"n": "c_nargisregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_pales.png_fba81aa0fb810064dddd59832ec2cb25.bundle",
+"pid": 8391332657738215163,
+"t": "Texture2D",
+"n": "c_pales",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_palesadmindistrictregion.png_1d4f282a15a32509e2f2a59a4ddf50c3.bundle",
+"pid": -4699734044554118946,
+"t": "Texture2D",
+"n": "c_palesadmindistrictregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_palescity.png_9c78ed87e8b2db5a1055b58aa455a681.bundle",
+"pid": -4028263802788155358,
+"t": "Texture2D",
+"n": "c_palescity",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_riziaimperiiregion.png_743a142aa6aa0ca66374373666cc3d21.bundle",
+"pid": -3336543418127813663,
+"t": "Texture2D",
+"n": "c_riziaimperiiregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_valenqirisregion.png_f77467ffa212a8631d24784e1f84847e.bundle",
+"pid": 7496490528696287454,
+"t": "Texture2D",
+"n": "c_valenqirisregion",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "codexentries_assets_assets_addressableassets_codexentries_c_zille.png_b7ee8b0311e111bbff8de3ddc707ed21.bundle",
+"pid": 5151618713368611050,
+"t": "Texture2D",
+"n": "c_zille",
+"w": 1024,
+"h": 1024,
+"fmt": "29"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_pales_big.png_91bd061da79825934ff3963b0d947860.bundle",
+"pid": -8742579644889267907,
+"t": "Texture2D",
+"n": "pales_big",
+"w": 2048,
+"h": 2048,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_pales_divided.png_be8ec6601660a0f8ef7a97ac22801ed8.bundle",
+"pid": -6388220786180218418,
+"t": "Texture2D",
+"n": "pales_divided",
+"w": 2048,
+"h": 2048,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_pales_rizia.png_89de6d80b21d1581b9d5e3daba1c1efd.bundle",
+"pid": -197456190242386197,
+"t": "Texture2D",
+"n": "pales_rizia",
+"w": 2048,
+"h": 2048,
+"fmt": "12"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": 8714615195042834067,
+"t": "Texture2D",
+"n": "world_fortales_text",
+"w": 512,
+"h": 128,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -7694167578878930699,
+"t": "Texture2D",
+"n": "world_heljiland_agnolia",
+"w": 512,
+"h": 512,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": 821366689852276536,
+"t": "Texture2D",
+"n": "world_heljiland_valgsland",
+"w": 512,
+"h": 512,
+"fmt": "12"
+},
+{
+"f": "commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle",
+"pid": 5495089220219566879,
+"t": "Texture2D",
+"n": "world_pales_Text",
+"w": 512,
+"h": 512,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -7388740112163032961,
+"t": "Texture2D",
+"n": "world_pales_big",
+"w": 512,
+"h": 512,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": 1112622812093641033,
+"t": "Texture2D",
+"n": "world_pales_rizia",
+"w": 512,
+"h": 512,
+"fmt": "12"
+},
+{
+"f": "storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle",
+"pid": -8795991315467296023,
+"t": "Texture2D",
+"n": "world_pales_split",
+"w": 512,
+"h": 512,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_zille_brenas.png_8d794c45a1a11d43c364c313f09d3d25.bundle",
+"pid": 3889746621789092580,
+"t": "Texture2D",
+"n": "zille_brenas",
+"w": 2048,
+"h": 2048,
+"fmt": "12"
+},
+{
+"f": "defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_zille_ownstate.png_c17e3c9696ed0acde49951eb7f050043.bundle",
+"pid": -5743130938360013006,
+"t": "Texture2D",
+"n": "zille_ownstate",
+"w": 2048,
+"h": 2048,
+"fmt": "12"
+}
+]

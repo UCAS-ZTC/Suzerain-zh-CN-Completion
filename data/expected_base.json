@@ -1,0 +1,151 @@
+{
+ "_comment": "The base patch (old stable pack) the main pack is built on. build.py fetch downloads release.url and checks release.sha256; the extracted files are always checked against 'files'.",
+ "release": {
+  "title": "Suzerain-CN-Stable-SteamWin (original author: Tieba user 虾饺面z; GitHub mirror: SweeneyJun)",
+  "repo": "https://github.com/SweeneyJun/Suzerain-CN-Stable-SteamWin",
+  "tag": "v2026.06.09-3.1.0.1.175",
+  "url": "https://github.com/SweeneyJun/Suzerain-CN-Stable-SteamWin/releases/download/v2026.06.09-3.1.0.1.175/Suzerain_CN_Stable_SteamWin_2026-06-10.zip",
+  "zip_name": "Suzerain_CN_Stable_SteamWin_2026-06-10.zip",
+  "top_folder": "Suzerain_CN_Stable_SteamWin_2026-06-10",
+  "size": 63249586,
+  "sha256": "c0226aaaf341b025a16caa4a3bc9a726cd489201a47744c131b9d82569e5e387"
+ },
+ "files": {
+  "README.txt": {
+   "size": 1926,
+   "sha256": "c234fa4d5a6c1225b1adfe86adbe62d60ad7e7dea3897e625c3f9969ce4e7ee8"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/database_assets_all_2c5c6df453acd4d096b216389ddafa9b.bundle": {
+   "size": 16379365,
+   "sha256": "8fd0150edf630ba7a7caaf7354072ca328e05d8268e3a56e1a2b85ee4264876c"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_database_entitytextassets.asset_ec95223fa5819b4eb4d612c0ee4914b6.bundle": {
+   "size": 4867361,
+   "sha256": "d54e113b036e641186a4bb2cd2cef0ecb710c64bda0b12dfcfb7ed3e6171aec3"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/scenes_scenes_assets_scenes_mainmenu.unity_7a83e23d93a54d036c1e8ac025754427.bundle": {
+   "size": 6581419,
+   "sha256": "d433388a4386fa1b27045e5076df3806a3db0c4a61f663a9a181de8a5917afd9"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/scenes_scenes_assets_scenes_rizia.unity_971c5d701c19b16434401c0a51fe9654.bundle": {
+   "size": 22802798,
+   "sha256": "e1af12cbbe859f7a1e324ec36ee4cf16a000123d8420d20491afad752f9091e9"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/scenes_scenes_assets_scenes_sordland.unity_2067779360889a06086189727767a00d.bundle": {
+   "size": 6050387,
+   "sha256": "05903ca0cdd3312c50e77ce5dbff7a41fb48898f3024cd088fdb0dfba9936642"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_airunit_bomber.asset_9722064a1cb7b9a058a303a27e635b8d.bundle": {
+   "size": 2690,
+   "sha256": "4ff85b927a2773a9c71db3e7b8685d907ceed75e01986327dde170ad5f7372d1"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_airunit_support.asset_60113ae22605d28f0eb6392ba5ebb165.bundle": {
+   "size": 2681,
+   "sha256": "a64c1dcda87e1e77f738600fb4ebd41e355b18cce3bd38c355218ffab3a1cc54"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_arces.asset_83498445feb4b65fcf10df0b0981d9ee.bundle": {
+   "size": 4653,
+   "sha256": "a4b86d58fd8a0094c038c4c0bafcf048771f275fbff0f6b91d11f552e77b99a2"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_fortales.asset_4fcb4f44eae1becaa3f5891f9ec55f03.bundle": {
+   "size": 4684,
+   "sha256": "43e548431afcb34883dddd7765b7627c768cc26747a5becd44748a8c94aeffad"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_pales.asset_8317153a05647caa5659f891b406f879.bundle": {
+   "size": 4734,
+   "sha256": "3262a377c2f512d448a824d79280cb40a88facb29864722f0f8124cde10d2fd7"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_remaz.asset_3980e5624ee698a37be8f1767eaaf225.bundle": {
+   "size": 4686,
+   "sha256": "cd06d00e24cd54599d3be97a7ffb089db1b2cfe2771c16c17938f6d14695f21f"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_solles.asset_fefcf56cbae788331fec887eb15e1221.bundle": {
+   "size": 4658,
+   "sha256": "2fbb3ed52b71ef3f3b354ef5d701ab88e0eb52847961ea31fd3a6667ff508fab"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_terador.asset_3fc7eb6611a4e487895f37bfd2c7dae4.bundle": {
+   "size": 4681,
+   "sha256": "36941f011fbe7ae994634f27d6c540b6097a6059d70b4d5e2463e00e3791eaf3"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_tutorial.asset_7fb7ed13320c4f8e6f34d69cf7d835e6.bundle": {
+   "size": 4578,
+   "sha256": "59ae650e32d437f8abf4325d7ae7330f765f591c4bac5027346669efcf447f45"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_ziqes.asset_4e6ced6246f377090485cc214743d5bb.bundle": {
+   "size": 4683,
+   "sha256": "8fd235a0c24b351638f7b5f8a0994105d9f8ab7f474e947a8f12d008cf28bb08"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_armor.asset_f4a2e0776fea7610d1e5e42ea20fe16d.bundle": {
+   "size": 299697,
+   "sha256": "c71b592e48a0fec394e152c2ee4a8c33a7b49e5c0d1a0c1662b3c54b7e29bf90"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_infantry.asset_294686b326afc795261b6f0b32988444.bundle": {
+   "size": 2835,
+   "sha256": "cbf05ea314e7fb3c22f2cc82bc0b5d1d9206c2db7a212cb16f2543b9dd87f84d"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_militia.asset_7d87a959d15cabe022cc5e73af23a0bf.bundle": {
+   "size": 863029,
+   "sha256": "2db917e861b61a6b4211491474246b320b555179482c2b19e499edfcb2b82ae3"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_paratrooper.asset_18d3f5f905cca680bbee40c6777e639a.bundle": {
+   "size": 2533856,
+   "sha256": "56e439f948ac6e9df0798d50382827f6a06078f67ac29c265d489d8ddad7c521"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_goldenguard.asset_ecb7e5a7b4219237c4bbce1f4d0107b8.bundle": {
+   "size": 865385,
+   "sha256": "05a0341da9c0bfc007420b3ee02ac8bc36d2f69c73ba7bf1e4e69fbdf90a958f"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_houseazaro.asset_0c55c1532a88130bd38b7887ab56ef74.bundle": {
+   "size": 865426,
+   "sha256": "6602e436f3ad38fdf2e85c02d66f90d4b978587169e3982610f25880a63429a4"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_housesazon.asset_b5bfae1834c4f65b7906d4715e79129e.bundle": {
+   "size": 865406,
+   "sha256": "60a01da61fbb6a86f8abc3cff18c3bd73a6546baad0fee366177cda183907dc6"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_housetoras.asset_0f443640ecfc7a833fb4e7142edf16f1.bundle": {
+   "size": 865425,
+   "sha256": "be6fe84fb78f91dab6976d344453bbc1c8e5100f1c5a991efdecf6ed5a6236e6"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_marine.asset_bd76c07d8e9146a1911b9db1b41b4404.bundle": {
+   "size": 5152540,
+   "sha256": "b013226a8b6b1b6ad43e216ea8a2555e741b375fd068e6e655f54624e1380a2d"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_mercenary.asset_7d71b16cc497891f57d3f7c2b56fb67b.bundle": {
+   "size": 863018,
+   "sha256": "a8f24b7456d3595fba58f8eedf202453fbe298cc85881c84e9357f5ec7a18fd5"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_mountaineer.asset_2c2641f2d1b9fe9a6fc5cd59c5a3cd56.bundle": {
+   "size": 880771,
+   "sha256": "adbe891f47a65c5032f39591e6a42f3297c8f434ebc0a481affdf2baf85b5729"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_support.asset_309fdd6ef453c7581abe630f95e27ca7.bundle": {
+   "size": 312594,
+   "sha256": "c212fa51c5c65170f15c4d4366fd7678aefd31aee47d556bafba89792433061f"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_navalunit_flagship.asset_5682a76ce046532c153c98136f6e0662.bundle": {
+   "size": 896342,
+   "sha256": "8a3e6c75944ed7dcf1e27f9941e3dad3588c60f3b4efc365e5145951da6f1ae3"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_navalunit_militaryship.asset_e8cfab0770ece56e2ec7ed59aec2d49c.bundle": {
+   "size": 74555,
+   "sha256": "9dfd0608313cbf6d164129373338d5312c17a1a514d5f2d34020c93564b5f48b"
+  },
+  "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_navalunit_submarine.asset_ea337c5b3ab3c9037fb66e86797b1225.bundle": {
+   "size": 873527,
+   "sha256": "b51e8a0d0800999ab2575b8c6fd0e83f4613db7e2cf30a0708f4cf40ca38cc37"
+  },
+  "install.bat": {
+   "size": 248,
+   "sha256": "cb95ce950e1fc350969763a2a6157babf7c4e676115cf6b33720d8d017e88a99"
+  },
+  "install.ps1": {
+   "size": 7610,
+   "sha256": "2faa0de824722092df43f86bf2a85dc1c6b2687dd1e89b4376b9c24ba8cee69e"
+  },
+  "patch_manifest.json": {
+   "size": 17764,
+   "sha256": "fbb112deb17fbec297a1bae33c657233de38cac4b99677e15e7a815ff2078e96"
+  }
+ }
+}

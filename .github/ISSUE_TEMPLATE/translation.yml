@@ -1,0 +1,57 @@
+name: 翻译问题
+description: 错字、术语不一致、方块乱码、文字超框、地图上的字不对、还有英文没翻译
+title: "[翻译] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        谢谢你来反馈。请尽量附上截图，让我们能看到出问题的那一句和它周围的界面。
+        游戏画面的版权归 Torpor Games 所有，截图只用来说明问题。
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 问题类型
+      options:
+        - 错字、漏字或翻译不准
+        - 术语或译名前后不一致
+        - 方块、问号或乱码
+        - 文字超出框或被截断
+        - 地图上的字位置或大小不对
+        - 还有英文没翻译
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: where
+    attributes:
+      label: 在哪里看到的
+      description: 界面名称、章节、哪一条百科 / 新闻 / 报告等，越具体越好。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 现在显示的文字，以及你认为应该是什么
+      description: 能复制就复制原文，不方便的话看截图也行。
+    validations:
+      required: true
+  - type: input
+    id: packs
+    attributes:
+      label: 你装了哪些包
+      placeholder: 例如 主汉化包 + 地图中文标注包
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: 游戏版本
+      description: 本补丁针对 3.1.0 Build 175。
+      placeholder: 3.1.0 Build 175
+    validations:
+      required: true
+  - type: textarea
+    id: shots
+    attributes:
+      label: 截图
+      description: 直接把图片拖进来。

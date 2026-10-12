@@ -1,0 +1,1265 @@
+{
+ "_comment": "SHA-256 of every payload file of the six packs, from packs tested on a real game. build.py verify compares against this.",
+ "tested_with": {
+  "python": "3.11.15",
+  "packages": {
+   "UnityPy": "1.25.4",
+   "Pillow": "12.3.0",
+   "numpy": "2.4.3",
+   "scipy": "1.17.1",
+   "etcpak": "0.9.15",
+   "texture2ddecoder": "1.0.6",
+   "lz4": "4.4.5",
+   "brotli": "1.2.0"
+  },
+  "font_sha256": "a4aed9985a5916fbf6690456f8732a9fccd517938e353165d4142b4f11a39280"
+ },
+ "game": {
+  "steam_appid": "1207650",
+  "steam_buildid": "23568265",
+  "catalog_hash": "f65497d562f96d21d9cf26514449e829",
+  "build_guid": "d466538e3d5d44a6b1bb183072d159ad"
+ },
+ "packs": {
+  "Suzerain_CN_Plus_MapLabels_SteamWin_2026-10-10": {
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_agnlandregion.png_5c32ac815bef06271334ab97d67b66dc.bundle": {
+    "size": 102038,
+    "sha256": "53cf8f3544e502c7e18d525bee678c5464a12529ac276cdb0cf41492b5585742"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_bergiaregion.png_12a50d71fa30d3f94036e3435bd8c250.bundle": {
+    "size": 108402,
+    "sha256": "d02f8ca87c5851889463ec8ec3c65d2e51ec970156f243cb7bd89bbac1d8d01f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_brenasregion.png_fb347fa336707de9cf66b480cc521d6a.bundle": {
+    "size": 96649,
+    "sha256": "b2a4baef648660de0e7aef3388f22948395c8ffaa3c7e90bfebe5ce9f51611ba"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_cardessemontaklarregion.png_8c5299d823e67689240898fbbd2c7895.bundle": {
+    "size": 108386,
+    "sha256": "97f03802b04a820fc552216453ac6b733df93101958876038b33726d63276d9c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_gelslandregion.png_85305e59d8d210b925fbe689e27908bb.bundle": {
+    "size": 111320,
+    "sha256": "50b3e3acae4b92259e958df8af67618e52c5a3368a6d9e07f5421e2a3ac19b3f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_greaterholsordregion.png_6c0aac99197e12a7c65bc4ba0bc8215b.bundle": {
+    "size": 104583,
+    "sha256": "b04c710fea20b543ed7c627d0105d4de8bffcef42c1d573ec4b21e4a4902091b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_gruniregion.png_1f0c31543179a34104ef188812ee987c.bundle": {
+    "size": 104941,
+    "sha256": "89c240fcd3b6315a39876e34857b6f179c430a486f79eea084467302b6fc7024"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_lorrenregion.png_41f9a799c9855be0a854a19ac58263a7.bundle": {
+    "size": 104187,
+    "sha256": "6ce8ebb044f4feb9e74fa3002415780b4b7ad7db34a23faa1b6814cf639ebb91"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_nargisregion.png_ff4383f1b638082b503c0cd123938b3e.bundle": {
+    "size": 96770,
+    "sha256": "36d3ad3f4633e850c49a5873d5b85a5c70922ee729b6aa0d4656eb416217f7ae"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_palesadmindistrictregion.png_1d4f282a15a32509e2f2a59a4ddf50c3.bundle": {
+    "size": 107980,
+    "sha256": "945eddd65140e62ab9a92979c5e0127f4fd1076b2682a37fd1697d1b1cea343b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_riziaimperiiregion.png_743a142aa6aa0ca66374373666cc3d21.bundle": {
+    "size": 107190,
+    "sha256": "5fa59c6c1a4c4d119b1312ce5a0669d32acca7a4f3c54f4aed51e22bd998e774"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/codexentries_assets_assets_addressableassets_codexentries_c_valenqirisregion.png_f77467ffa212a8631d24784e1f84847e.bundle": {
+    "size": 103163,
+    "sha256": "f6ce9c88a22988bdcdccc779e69bb962285b0f2fb577fb921abcbac781aa20c8"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle": {
+    "size": 156921139,
+    "sha256": "15e325ea7a3dfa730ae9cfd91afc08af6fea1f144d8c9d4c72d0c336d75bf339"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_prefabs_sordland_environment_sordland_war.prefab_9e7d9998c690688fd50d4d5d828a343d.bundle": {
+    "size": 4730620,
+    "sha256": "aca3b84db316247657a34d926cdfc0ed89488a59b1982c2d5e4560e9eed451a4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_prefabs_sordland_maps_sordland_sordland_war.prefab_ab52897e95916dbb3fba7c0a1eea6781.bundle": {
+    "size": 3018899,
+    "sha256": "c1d6255297ccc368f32c29fe3b634d264295e530a5c93ff0adf1aa2ea0a66601"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_pales_big.png_91bd061da79825934ff3963b0d947860.bundle": {
+    "size": 352794,
+    "sha256": "5749e48b53a399cfb58315d9d528159dd742df893cc5ecc9c462d79c3ea8567d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_pales_divided.png_be8ec6601660a0f8ef7a97ac22801ed8.bundle": {
+    "size": 440715,
+    "sha256": "54c859617863e6368c345075afc27bfa0927188a818b9680a6cbe57b14001b26"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_pales_rizia.png_89de6d80b21d1581b9d5e3daba1c1efd.bundle": {
+    "size": 386707,
+    "sha256": "757bbff30adc037c7210432fb28c09a46f9b20f064ec42bde9c39c52d259039c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_zille_brenas.png_8d794c45a1a11d43c364c313f09d3d25.bundle": {
+    "size": 507879,
+    "sha256": "6343d75f619c09d5146f945202aa6563f850240ab8023493e4ee9175e61fdecf"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_rizia_zille_ownstate.png_c17e3c9696ed0acde49951eb7f050043.bundle": {
+    "size": 511238,
+    "sha256": "15850c5feaa2956d93b18d990ddd2007d1f2df26239f3e44a127b660390822e8"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_agnolia.png_d5bc1b2e96bcd683ae4aa7e06869cb69.bundle": {
+    "size": 39975,
+    "sha256": "0d12c1c86fd17f45b5fffcdcba0e043edcbf0b47bc91ff1e65eff06d6c304e97"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_default.png_f5ad19b6dac69b0ba3ed011d5ae4c823.bundle": {
+    "size": 52839,
+    "sha256": "c3e1815daf8b0d7119c9c5fa50b7507d59b14780f213a857da752057317c6812"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_invaded.png_8c1a5da586378b21e8a0232d86b2e72f.bundle": {
+    "size": 54194,
+    "sha256": "818f0894aaa724b5ddb226635ec7313462528f5b969a19d4d371a9969de1ee35"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maplayertextures_sordland_heljiland_valgsland.png_2f2e1d105262aac027788450c90d0d2e.bundle": {
+    "size": 43443,
+    "sha256": "18c7460ea70c8fa8ff8c82de6a2607dc495c69e6e19a674a761a89ff2d4c74b1"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_01.png_500bb0b2897c5459b98e3e19a07bb140.bundle": {
+    "size": 3687463,
+    "sha256": "d07eb42f1cc0d53726504d6810a6ef803fa66b41bfe9bb19daa0c53df8973576"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_02.png_db6ae10059743a2c9e81d85e60752b22.bundle": {
+    "size": 2556643,
+    "sha256": "1943b63ca41bb6d7f56e4508dc85f374e8ccbcadec86105bbe5915c149f052a8"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_03.png_5e993aad7b2ee048e35fdbb4cd046892.bundle": {
+    "size": 3191844,
+    "sha256": "5ef0b827d2bb9b336de147fa25b19520e53a0a55599cc472ccafadee3a25165f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_riziamaptextures_t_map_rizia_04.png_401eeeec47c957e563eb602e6a554d5d.bundle": {
+    "size": 3981524,
+    "sha256": "16639a8e29f91ffbfa96ecf1e1d36df55e804ac5f2ea3821bd0a739bd6928446"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_01.png_09b0e9c8b2ab6bef819c61973c6a51d2.bundle": {
+    "size": 4420921,
+    "sha256": "185525e4646c9cd7163baa11f39c76f3194a923223368daa76cec6c1b14ae950"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_02.png_8537e59d5dc39113700857a334baf031.bundle": {
+    "size": 4180222,
+    "sha256": "76ae6725271296eb1c18e3be5d993c215d3873dbf01c4f3c357a709251eaf30f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_03.png_ef13d53d26cb48e89c404157363a5ab7.bundle": {
+    "size": 4621123,
+    "sha256": "2129dc2c3096ce6a00d46b2acaef7d11c432f6e8afc4052a2033520d5829cc81"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_textures_maptextures_sordlandmaptextures_t_map_sordland_04.png_9d8aa9a3fa49a6b8a5699d3fe5d6f4f8.bundle": {
+    "size": 5126343,
+    "sha256": "57b6518dfe32977f3ba067a830357901d1ee57a6474a5b2e4e38c748ce88cbfc"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle": {
+    "size": 6404168,
+    "sha256": "01313bba922a72105b1288c7950aea6aa75cfe019cbc525c77a5813e39f7ed9d"
+   }
+  },
+  "Suzerain_CN_Plus_ProgramText_SteamWin_2026-10-10": {
+   "Suzerain_Data/il2cpp_data/Metadata/global-metadata.dat": {
+    "size": 17847660,
+    "sha256": "155f259285b799f573ecd4e255a154bc0257fdb124ef320d5ef4ba0ff3407f06"
+   }
+  },
+  "Suzerain_CN_Plus_ProgramWords_SteamWin_2026-10-10": {
+   "Suzerain_Data/il2cpp_data/Metadata/global-metadata.dat": {
+    "size": 17847660,
+    "sha256": "8aa2b1dc4737b22a7570d6dc0b13a9a784f72ae5572339370a11fa901c4da3ee"
+   }
+  },
+  "Suzerain_CN_Plus_SceneUI_SteamWin_2026-10-10": {
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/scenes_scenes_assets_scenes_mainmenu.unity_7a83e23d93a54d036c1e8ac025754427.bundle": {
+    "size": 6615478,
+    "sha256": "0f767c7ccef9e6bf277e44f0946dd2a61f7403521e7e745364ec5305dc52707e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/scenes_scenes_assets_scenes_rizia.unity_971c5d701c19b16434401c0a51fe9654.bundle": {
+    "size": 22886947,
+    "sha256": "6685caaa8aaa90f5e83f0a3411f478b9079c7525b8083e1991315ddd65d4baa6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/scenes_scenes_assets_scenes_sordland.unity_2067779360889a06086189727767a00d.bundle": {
+    "size": 6081148,
+    "sha256": "386379e5950bdc1e99e3ae28304b4a5cbd8152a5e29dc9cb9eba330157fcfcf7"
+   }
+  },
+  "Suzerain_CN_Plus_SteamWin_2026-10-10": {
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_chapter1_finish.asset_5c406cd33aa835d834f798464ae4ec69.bundle": {
+    "size": 1843,
+    "sha256": "6c575b69f1b4795e55d9eeba0d9040d445eeb2a933906969ee657451fb4fe016"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_chapter2_finish.asset_30efac7809b52cd9f0147e42a8d41890.bundle": {
+    "size": 1848,
+    "sha256": "74794755eff262916d581e5b99d07364d7d2184aadfea03486cc83e0bfe78e48"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_chapter3_finish.asset_e07f5d4d6ce506b47b41828df97edc80.bundle": {
+    "size": 1850,
+    "sha256": "0319c79c663bd4671f713eac312f5c20aafc296a6475f8340521a1bdb4a2b112"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_chapter4_finish.asset_ba3c308c8cfa3d771192725f553beea7.bundle": {
+    "size": 1837,
+    "sha256": "24c39ef791b645c4e6bca3b17de790f4a5e7c8e79a0d7217ce974d67637430fc"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_assassinated.asset_59c64f099b5bbde866be724cab9c9cf3.bundle": {
+    "size": 1827,
+    "sha256": "ab4912da86f0d88447785a9b81d3618e675bfb548f25e5fdd40f81858be1ba01"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_couped.asset_a24cff0e60cfc69cae11b4bc6c2b92cb.bundle": {
+    "size": 1815,
+    "sha256": "785dbdb11e5be1bdc6c2df3e0facfae790690c676b963b6e960fac590ff8e33f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_electionforcedout.asset_0b0ba49617e5c6a113f9e9aa013da96d.bundle": {
+    "size": 1849,
+    "sha256": "46229e6482aaa3c9223fc780139ed55a5f3ba78c3d08d57221dedea4d20ded47"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_electionlosecontinue.asset_9775cb74e6dc439f1579d47fa31dd3eb.bundle": {
+    "size": 1869,
+    "sha256": "9b2b39852355fda3d3461db82d70f08ae9bc3e20ba31967853a9e35b2a442282"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_electionretirement.asset_49a99b300fa99c5bcf4872f1204ad7ad.bundle": {
+    "size": 1871,
+    "sha256": "15c233654876017b42aea73b2c5549016f1e34e78d751eeb0d7ad2e502aec6a5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_electionwon.asset_e0ce2faed8cf5a6fdfe1230ec59a2a6b.bundle": {
+    "size": 1855,
+    "sha256": "70d0701804562568b8d1d7ca5d441256bb1ece43038caf2fa7568d64d596c895"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_electionwonvp.asset_55ae5b812400fada961ff552893872bb.bundle": {
+    "size": 1847,
+    "sha256": "b7cc9bc586fac07ace10e5ff8c25ba106d15e331d0f578b3c6d16c662fd4cc69"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_exiled.asset_14b7b1380004274c932332d129f4b6e5.bundle": {
+    "size": 1819,
+    "sha256": "2a7ac55e270899c125ad0ebf9d539684707674d9a13f338a5d63eedde987dd42"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_impeached.asset_a05367659ac0074aed7116e265e8687b.bundle": {
+    "size": 1819,
+    "sha256": "97689c29f1406d52f05401d8dc3bd265c3e18c1749daa9f85034538ffa7259e9"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_lostrumburgwar.asset_76901a3e3fa57f7725e7edf08960b8e9.bundle": {
+    "size": 1866,
+    "sha256": "7b765a9eda5db6ecb7b5a45100412854be8487fbd7ae157815bbe92cb4dbcab3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_retirement.asset_4fde829dfda3ffb480ac65167495a562.bundle": {
+    "size": 1824,
+    "sha256": "08efa13aca3319f48bfd033cac020973dad6c5f88b417e88e0684941e8976c35"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_wonrumburgwar.asset_7ed2638819fbe258e661255caa44b989.bundle": {
+    "size": 1860,
+    "sha256": "9ba16d62e41d1b9b5e21af01dd136be78ae90152b033f6142973ab5f328ed145"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_epilogue_worldwar.asset_604a1f247821805bbca0486d17589f3f.bundle": {
+    "size": 1830,
+    "sha256": "30ec0247bc767abb3f13b80e61ef7bee77d68bcef173c5925fdbd7541359704a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_1vote.asset_1755d8fe1cbf2ff9b2bb679b5c51de37.bundle": {
+    "size": 1898,
+    "sha256": "14eabb94f6bd1138c016b2cd010bbd203e4c99e8d6251587c0a533411054be6c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_3funerals.asset_1473db542e2adf9f6dd0ed8d1466169f.bundle": {
+    "size": 1836,
+    "sha256": "95d2214689128a61f0c9936f1ced25350d8e9a818b28ea31a20a689c83159ada"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_638ways.asset_de130b00e50f36f51479ee9e364ae4cc.bundle": {
+    "size": 1864,
+    "sha256": "ff5179176d644df31901c03a6861b634e67407dbce1b72f40ae33f99d2793a89"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_acp.asset_142b173750ea837a34f82e0249f32eb6.bundle": {
+    "size": 1831,
+    "sha256": "46224ac5f42e3209e2b3cb6d8151a08c94a161979bc8866875110f2dfd285e29"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_agnoliaalliance.asset_02dee5deaa0dfa055201c0a42e35a69b.bundle": {
+    "size": 1874,
+    "sha256": "21daeb424f1bbe553a04fbc2ef3557229f8c3ddecfef627034588e2d9a80d646"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_alone.asset_c0787d7e13790d018c765a99764c0593.bundle": {
+    "size": 1862,
+    "sha256": "65d5ac67b5965eafa40169cdf39683c620ac56af22b44fa025a21699e3f5f68e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_amorgna.asset_1cef31a402a84d0720209f52df165c8b.bundle": {
+    "size": 1845,
+    "sha256": "77c37f204070d6f72c91827a9300f637517c14b7a7bb36003a56f14d71645d99"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_anotheralphonso.asset_3fac84cf79404299f8e759a42c5446a0.bundle": {
+    "size": 1887,
+    "sha256": "91a2a83bd56d1374080e93fcec7d5a083bc1cb8213294e7256d8d24908d3f858"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_authoritarian.asset_d8fc2e0f31e78574255f808321cdbad6.bundle": {
+    "size": 1823,
+    "sha256": "70a57f28daa01185e73896fe5d3f5a5f32d94c45d2f4bac4d625aa1cddbc303a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_beartrap.asset_5090c7bad886fda2b6c66de8017e1fbb.bundle": {
+    "size": 1877,
+    "sha256": "78db27b0c8d20519986678e2879737d4668dd2fd209a352183263ebd710e7d51"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_bffdam.asset_be0725bbf3f63aee2ceac2b1fb4b285b.bundle": {
+    "size": 1883,
+    "sha256": "42f6bf573df81159952f36f9b2b8a731727510d3d2b40bec4c886ac76ff78d9b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_bffunrest.asset_7e84f44ac724a6f7f34d2a6b7ab1818b.bundle": {
+    "size": 1855,
+    "sha256": "1b506a7222fb8a45f80d922af103ad878b8546299261ee69f185168b1ebce2f4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_bludishrights.asset_01f349dbd5a96d56ae714f2ddb011727.bundle": {
+    "size": 1871,
+    "sha256": "5450d711bdea4b786a918f9120f506f816a3a267a7c2f6bf693499648967e307"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_bribe.asset_9a802d99588797deae0fde3b2ba9d28a.bundle": {
+    "size": 1824,
+    "sha256": "1aa4ed28849808c5ce05362a9bada4ff4a89cc6b01ee355a6594a89d2260c216"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_budgetsurplus.asset_dd967b913056b2cb483f81076949fcd4.bundle": {
+    "size": 1849,
+    "sha256": "a632ba9503b68dd6fcf567b8c9e7e8e62417bf4bd121246fd869ee637072293e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_capitalist.asset_85a79504410fabd71ff72206ec26018b.bundle": {
+    "size": 1819,
+    "sha256": "7aaf9e10f03683acbe3e0134dc5108224d1b9acf8c4594cdea8e7e600201471e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_carbdiet.asset_56fb2a344f9d5b65e8edda09beb78976.bundle": {
+    "size": 1859,
+    "sha256": "cc5530e1825eb94d0ab8877210ddc7b9748cf9387c6557f227d1c6d7133c9b33"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_centrist.asset_9d40a4e17719335278030894351e4ba7.bundle": {
+    "size": 1836,
+    "sha256": "37822ee1f6b49a3c834aee45b12ebae842ee0b88164873d6a3a75f23fa108844"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_chessmaster.asset_530582f5f71e22cd175b77cf28a0ff02.bundle": {
+    "size": 1936,
+    "sha256": "14fe4f479768d0f1f3e3975b5bb826ad69668f1db17c8f137ca77b315cfbff6b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_anricatrophy.asset_38e4a74fa4329b4613e707b461410766.bundle": {
+    "size": 1868,
+    "sha256": "f49184384d077220bd42a248f0ca04a0e54228ca027b0b2c6647ac96f98cd3a2"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_armadineradio.asset_9c966642d05f0e6499eec19819ce6187.bundle": {
+    "size": 1861,
+    "sha256": "59712c277cec6f6577cb8bc9dbca20833e382da3f725f06916ece604d3e11c3d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_aschrafcandle.asset_93816b492b1d805044be4a68a3dad3d8.bundle": {
+    "size": 1851,
+    "sha256": "567bc2720e1eb4d46192050a7a9000d66a40f0cc1612b180dcbf24ec5df4b972"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_carkey.asset_a2e54fe516e4130566a225eb99abd337.bundle": {
+    "size": 1835,
+    "sha256": "955d18b06c3bdd628373bbf80c829579375b52d604ed0aaa9a05d7374adcb33c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_ceremonialscissors.asset_1d6a30a635ed317522a725629e96071e.bundle": {
+    "size": 1855,
+    "sha256": "d031a577e2650a8bc66de9c4f795f1b4105b40dad834e3a9565cea50577117d0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_cigarbox.asset_afd6c598141bd5b92c0871fb5465a865.bundle": {
+    "size": 1837,
+    "sha256": "80e2d2d330081074d6b7333122ecbe237d95bba0d64e36fe79dfe023fd6a899a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_dagger.asset_ac2f1f40abd44ed769f0b4b572d1f6e8.bundle": {
+    "size": 1853,
+    "sha256": "ce8d3cbd5b87a5962559069f2aeb390503c1d5bb58874a0f7b0426c8491135fe"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_goatstatue.asset_8e2cfbd0611d6480bd1580a3229e5b74.bundle": {
+    "size": 1855,
+    "sha256": "d79429d5e43102bcb43f99f1463cb29084dab48fe2d9a8e0ed6f1c28eeef66e3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_gun.asset_f919d8274a4b740414b733e82e65a599.bundle": {
+    "size": 1825,
+    "sha256": "a5e1fa3c86c6dd8d02c97b0ebb710393a0bc978ab8bc36d90ac7dca973b32f15"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_headphones.asset_27945292b85cdfb9dc267caeae94c8aa.bundle": {
+    "size": 1840,
+    "sha256": "ec764b4868b6d208ba3eff924184b87ac58b88741d9cfbf116ef4776153bd879"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_kesarolighter.asset_be1bba66afe17b415b4c452837a522b7.bundle": {
+    "size": 1855,
+    "sha256": "5f7acab870e2319e39c9696bfc24516abc3e19e70e956e8fd3467e3b6077c34b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_photoframetorn.asset_a3920dd715c7bdb4ae9f1a2497d0bcfd.bundle": {
+    "size": 1853,
+    "sha256": "ed3522cf39659a2ef8f908bf44837fa905cb3a27d6ecae19872fc2b17fda2cf5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_pocketwatch.asset_95a18a5f851416f82a6a49c30b3fc823.bundle": {
+    "size": 1849,
+    "sha256": "2447fecf7ea5d0b39416194663659f25de6e6b5fa21c8080c4f11dac59d1b2ce"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_poembook.asset_9ed4c827f620f7ff079be53ef1ccf39d.bundle": {
+    "size": 1848,
+    "sha256": "81f81513d2d17d62b00aa84de2eeafa38159cfd7a841fa7125177069bfe6a9b6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_underhalltrophy.asset_f8b9739c4abdc401618b7070930757fe.bundle": {
+    "size": 1866,
+    "sha256": "cd5000af9808220296bb93876388a790868207ca1d3a82e02a6c040dea8ab095"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_uspbrooch.asset_3223f3853a42185afe73aebcea544918.bundle": {
+    "size": 1858,
+    "sha256": "78f78e76725b8c950d3daedf5ec36b16e728bb410511aecdc48418fc375bfde5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_whiskeybottle.asset_43907ad1e5b78228ccc044a5a78d147f.bundle": {
+    "size": 1854,
+    "sha256": "2606c685f55fe0bdf3d16cff42e4872ecf1f438a202c9ccc0f7021dc3ee26a54"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_collectionitem_winebottle.asset_fcf32eebcd2a0051a15869e102eaf189.bundle": {
+    "size": 1847,
+    "sha256": "104a9c195c861e5734f1eb7407acacaf62d59d1926bfab0e6f51d2375858c044"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_crocodile.asset_1b42dbb3bf555dd66912b69df37a1742.bundle": {
+    "size": 1874,
+    "sha256": "be5d6e350278419195b49c2d3423d50a3ef622df033c327cc61df8e18231fda4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_declaredemergency.asset_08246250d7f1c52e5b5035cc314158f0.bundle": {
+    "size": 1854,
+    "sha256": "0d85f6bb7be3af7864fbc5c1060a5cf57e94639729cd52d4f8bb320aacf92f67"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_declarewarrumburg.asset_c674839cd2567515b6f64245b1528443.bundle": {
+    "size": 1851,
+    "sha256": "0b5e6e4af89e9d46f4cbea6e2d25cf0d6eeca8ad31adacc6f640a7ef10b3956f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_democrat.asset_03240da84e7e7bf7ab16f6088dd94c49.bundle": {
+    "size": 1816,
+    "sha256": "5d376a8adaee9ab1154814404ff4a818ba832e8797b56faa0a64b659d9dffa32"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_divorced.asset_5805d9736523a9b86f9200061939bf2b.bundle": {
+    "size": 1859,
+    "sha256": "d19b32e83b94dce6834b75d89a7c39a9a7d462008a530023a304a0ffe4f2d9fb"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_doggo.asset_192de5d30cffd28d9f2950484bc0449a.bundle": {
+    "size": 1885,
+    "sha256": "0cca30c5dcc6b23fb389c62f0395580ff64ae02170f2e0b1f4f8c14cd29db6fd"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_economicdepression.asset_a7ff4fca082f59606a0a350ec23d417a.bundle": {
+    "size": 1838,
+    "sha256": "fe19c3540c2cf04842d9b35127c955aa1292d75942db60a589e112b5d4f63a83"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_economicrecovery.asset_3f8dd1a61881bba25ddff93192f1914e.bundle": {
+    "size": 1833,
+    "sha256": "c29f26198c4ba3a5ad51a6397b53f7236a3b155c242baaf33d8931980b78c9de"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_endofanera.asset_1ad55e06133019e3905c7aaa02bd0db1.bundle": {
+    "size": 1873,
+    "sha256": "578c97e835f259875135a935067ebf5d7223a2d85ad09cf1e6f21859eb728883"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_executivehoarder.asset_4a443de62991738f1d6f507d04d99b0c.bundle": {
+    "size": 1861,
+    "sha256": "0d144ca568bf5f32f66dafc80d39aa841f6abc9ff743f2d382ae21449b6b5f1d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_familyman.asset_0ff89a067c7425d2f752503b050b1de5.bundle": {
+    "size": 1821,
+    "sha256": "43a34576818eb7e6517a796a14c5070e27adbac3da775c101c8f298b06404be3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_fcanrica.asset_7aaec218877083fe93a7cf975a130205.bundle": {
+    "size": 1839,
+    "sha256": "4be346469143c3b4485875f04987aaa5dac45cbadb42cc59e2c5888b5427144f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_fcanricarises.asset_c69a11cb590040e3f5effa9b9b6999c3.bundle": {
+    "size": 1873,
+    "sha256": "5e146f35b567021445d2f44b1aaf9bb4f9265bba0b7135d42ccc9de457fda34d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_feelmyenergy.asset_c3636d0f61b54df0734f136687b1c655.bundle": {
+    "size": 1865,
+    "sha256": "7b8b38226a88b5c65116178fc50d3232ab2ec4fc5f1d8eb72b0badc5c3ad7b2f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_giraltribery.asset_fa7e42165b70d069936cf7a0414c2cba.bundle": {
+    "size": 1897,
+    "sha256": "25b4582a7a82c90a94cc060849410a474e301bf78c2856441f2f17ad151a161e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_hawkerplan.asset_95ddc9f323675ce9585d1326d44e0e7f.bundle": {
+    "size": 1852,
+    "sha256": "f762c122f07dfbae727cf0da3b278c6754723b20c134512cc366617c190121fa"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_highway.asset_5b7068061a8f66e7327b3d19b5649aea.bundle": {
+    "size": 1864,
+    "sha256": "7c58ad49c8364e7b2e0cc76d2b541dd7cdc44994c84e8f46d408893102dad3fa"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_islandinvasion.asset_50aa76ad97537a1815119ce2abf7132e.bundle": {
+    "size": 1875,
+    "sha256": "c9b4c3c8f9c91822a3d70fc02c0c03213c18a1f99cdfe97889248ad2da5a0606"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_isolated.asset_af3dc5ff009ded1a61ad1d8816485481.bundle": {
+    "size": 1857,
+    "sha256": "60d57ab3a0cdaa6dead9a53a2a31a0442691930079942105028675c875d01f8f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_joinedato.asset_12b9eb0d1ea6193dbd55d7d0b4b655d6.bundle": {
+    "size": 1860,
+    "sha256": "c7e1dd93a11fcc070166be6fce00134ba214d641c2782d4558cc2b502a51a500"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_joinedcsp.asset_03404d20048ddc58242683ec40835e7c.bundle": {
+    "size": 1859,
+    "sha256": "589dac5900ccb5c9e7391fc1bcd7ed72cbe7c78cab5e7d8bf1b04be785375542"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_kissmygas.asset_3342851cf63affacd596b7721edb3d00.bundle": {
+    "size": 1883,
+    "sha256": "aee83e007b07d3f8c87cbd2b100be96ca789e2675eb922b9fdc7d513ba71d0ab"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_lawmaker.asset_63d1f528939166a82b4c4502224f719b.bundle": {
+    "size": 1835,
+    "sha256": "e8e3efb5fb1b829134d2111db6c629f528c54212c3ed696cc3401934ba9fbda8"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_lespiaalliance.asset_57d1ade4af7725ad0f10fe39df8c6ea5.bundle": {
+    "size": 1881,
+    "sha256": "4bc0bb265a71312b5be9f534492ad1d7d3756f15e323ff84255fcbeb73fe8467"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_loudrayne.asset_7448a6d780bdd86d7b91d1097c462065.bundle": {
+    "size": 1843,
+    "sha256": "fad1f6e666313b2a11d6368de98d5627df519d6ca772d90db41ac08e31398c2e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_makesordlandgreatagain.asset_cd63204f63d9366bc49e3830b384c259.bundle": {
+    "size": 1937,
+    "sha256": "06f1e1078ea8b39bd17032756ca89ac32e0890343016e723fab9c34cdc18d896"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_malenyevist.asset_8fb9f9bcd025e1eeca0b99bb8bec1824.bundle": {
+    "size": 1828,
+    "sha256": "44e3df49b9742e96d49356d9a8cf482bccd956a8caf6c92f7ad6ba42561f1a45"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_manofpeople.asset_81008e7e315ac4387cc9e7e4ab21de20.bundle": {
+    "size": 1934,
+    "sha256": "c30bd2afe915f9be0f35fe95c4a55e51781ec77855842cf0e1ffaf676bbba42a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_masterofcrisis.asset_1ca8a47baeec446b27e8db48ffb0947d.bundle": {
+    "size": 1854,
+    "sha256": "ab175e449081733eb1ca5761a300158bbf52a9bd703336d4621e8855c232fce9"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_mediadeal.asset_aaefabf69f0714a94f5124a7a3b84148.bundle": {
+    "size": 1890,
+    "sha256": "022f6734cb476cf6a787cb21e1c731caaf68eef1e4ea880d409e1ef518bfd8c6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_militariststate.asset_70096ae727993443ec1e6de8eb7f1c33.bundle": {
+    "size": 1827,
+    "sha256": "cb65ff2f723601937009c0446b5fd57eec75fc9005b82e3777a791b2d994e981"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_monicalove.asset_b09ced52cbeb852ea05df0737c7bd649.bundle": {
+    "size": 1818,
+    "sha256": "d44ffc68e18c561f7532f407ac56a1358198b14ce1e1e1a793e39d9394cbeb0f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_murder.asset_6ba5b8d8129fcc97319b4d30f09bd198.bundle": {
+    "size": 1836,
+    "sha256": "13b7bce7305228b7c66474818068f18c743be4db7cebea42962459289d6217cf"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_neosollist.asset_e370c8b9b16d1f91520723c6ed3a40ef.bundle": {
+    "size": 1913,
+    "sha256": "a448ed45fecb9d71d39913c9459f380a98979d26faae3c650f1698bf682f9783"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_newconstitution.asset_b94ddf033bb0e9806f961bfd6e4e5ee2.bundle": {
+    "size": 1848,
+    "sha256": "7d0c838c68be5550f416f7047b065dd63c4e827e244436e4ba5c2183fb7fbd95"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_newredyouth.asset_f70018e0511297fd5f3fc3c5baa44b2b.bundle": {
+    "size": 1865,
+    "sha256": "1bd4766d79672bcbd39c42150ec4317bd0f5b32c7f71ae7e4f8287a7b31d87ab"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_newyoungsords.asset_a7478ac330310dfd5eaec5e075bd97bd.bundle": {
+    "size": 1872,
+    "sha256": "b4d1535406955820a9adc0a63a7f54018ab3199942982165ab0aa41d5309324a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_nfpalliance.asset_928cdc68dacb16875980b6c6a4ad9970.bundle": {
+    "size": 1851,
+    "sha256": "d793d0a2c801bd9839be74a86b6c22c7638f981c7e66abfaac11578711cc546f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_nosordlandforoldmen.asset_fc56beccbe853d077bd1fbf485234ba0.bundle": {
+    "size": 1891,
+    "sha256": "0a6f2d7c266c507f43e62261857ad4cf07db3f5692b799d6563979395d71230a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_obstructionist.asset_f418c880ea1f6dd79be2e49dfab864a6.bundle": {
+    "size": 1836,
+    "sha256": "171acc18ba450e0217454347e51a6a9f2b96831e318fea56055b995344ad1890"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_passedassembly.asset_176fe2a169eaf564288ce201cb313094.bundle": {
+    "size": 1865,
+    "sha256": "77a1c042ba1bab0b84b72c226a545ae208abb9da5e031f20e4c04efd6970588f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_pfjpalliance.asset_2746e3910d3dd1ecb904e3c37bc2a08b.bundle": {
+    "size": 1850,
+    "sha256": "42fced4f01788f7bc2d4c9fd24fe3a5876077e01e68d6be71526239aa2eed5a1"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_pluralist.asset_05d20182f9ff81ee5052e92309d668d4.bundle": {
+    "size": 1878,
+    "sha256": "fc755825a178d595ff2f36d6ab1833b04e4911e980f1c7b7dd602666681e6493"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_policestate.asset_a4c8c54f6ec73455baa90dfe7798d6f0.bundle": {
+    "size": 1823,
+    "sha256": "aa1ea9ae1ebe1b73f0e54add09583432b639da91acd072632e64224632af89ce"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_railway.asset_fb4670bd71266b4fd3f882ae2755f07d.bundle": {
+    "size": 1865,
+    "sha256": "6514d3bfb51122fb4f8cc2e54fdd61d5dabaa7ae6abc32c0b9a71298947a77cb"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_rumburgpeace.asset_11a689ca07c882cd4fe7b0a1fd1b1d39.bundle": {
+    "size": 1847,
+    "sha256": "89d7d1098d1629eb6e697f85a75533798ed3a5601ffcd22f267e859001b50427"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_savetheworld.asset_9d639be5d87ac2c0c1ba26d6c4920eea.bundle": {
+    "size": 1847,
+    "sha256": "64dfe209b2e2336bacad41a1abacc1532190f2295b1421cbc18eabf376b8ca20"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_sollist.asset_b062c7dac97c47d56b4e5410fefd45d7.bundle": {
+    "size": 1818,
+    "sha256": "329b768426c2232539175c28164948dec093efa9737e1a3863c15d7b629599a0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_sordlandforall.asset_64f9b14b4e57312b21133722929dd08b.bundle": {
+    "size": 1867,
+    "sha256": "2bd918ac138948037cb73d8c2e719241b084e82c5b12a86e1caab50504e98b36"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_ssp.asset_9dd6076c7d465d22cfeed47c5a533e34.bundle": {
+    "size": 1830,
+    "sha256": "79c46e63b5e9adbd5623743b20465edac065bea6c96997a915251a963c5e74a7"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_successfulritual.asset_6223407fcb19b978123e730f8d449a9a.bundle": {
+    "size": 1875,
+    "sha256": "1c5329f81c47f718b04c90543cbabfeb31906ac361ad3257aaf0bccb4e22abb5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_thanksserge.asset_91e8b39605d0b78fd065a114be74c409.bundle": {
+    "size": 1831,
+    "sha256": "aa192b998669b3ad78bbcf618b28f2915a16f7c3952a3cd0a4610f2fc0c93f2a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_thebludishdream.asset_ee454c696bd7dee0415bbbf2e479c2a9.bundle": {
+    "size": 1924,
+    "sha256": "0a3c97b650937f6a3a3c9c6ed5a91f060c7d437929ddd2120d68318c1cb45ecb"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_underhall.asset_55239fd1989a931a0a0b159291d49ea9.bundle": {
+    "size": 1867,
+    "sha256": "ec692556eab232fe1202420d7f2d1103119525be69653ca90912d2b215cc1f07"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_unfairelection15.asset_c5a8f3ccfff3e31e7bf8bb107a727b39.bundle": {
+    "size": 1917,
+    "sha256": "5f6f2e6b7190d1841c19847d307f8d1e83c2165ba59e423e530fae09d4b7ab8b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_valgslandalliance.asset_227732ab08fa6cd6d94a2b19e39d6df1.bundle": {
+    "size": 1871,
+    "sha256": "bd6c9458720f47c82c13fee7cef678f13885b1737e2f1b6f1463ab5476dac00a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_violentunrest.asset_12dfbb5ac557b7e23e6ed49de3ac38db.bundle": {
+    "size": 1850,
+    "sha256": "56a3d2d13608659f2e121bff073153b7404b68a0f860a1fd17d8bf8c310db8fe"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_vodka.asset_80503c1cb33631784a11456bee599baa.bundle": {
+    "size": 1857,
+    "sha256": "1e60c8fb02226fa93a7112ed50305d84ab0a232e3486f0bc97cc98e95ad9eb23"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_wealthsurplus.asset_9f2799af35c70b316bc024f89a49622e.bundle": {
+    "size": 1878,
+    "sha256": "f043a2126469b260609ecc3d89c782323783978d630cfbda33d4e056047b356a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_game_welfarestate.asset_f1b8ca11ef3d958312922c885575d67e.bundle": {
+    "size": 1822,
+    "sha256": "4b8e4db207d7e1baca99be293e62f6e1251202adef8e239b26cf8d6c805949dd"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_prologue_finish.asset_556b51df616e7cbb832e2d4f772df297.bundle": {
+    "size": 1839,
+    "sha256": "d341f8b0f3c13711f888ccdc72c4063b74c7ab5f99e0f1c8c78c20c50e588000"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_riza_peacefulunification.asset_bfa186d2c3259426a0474be2382f2934.bundle": {
+    "size": 1875,
+    "sha256": "f82641e5701883d7b28915af1f171739afe9e430e1af5551de4f6b43b07697b0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_ansanctions.asset_51efdf8a33eaaf8b71d45b99c54425f1.bundle": {
+    "size": 1867,
+    "sha256": "8ea213a26b20808065b0c45b4cadba65311d79b184c8909e335b3d1f25eb4957"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_arbitration.asset_03415cf37669f68964a6bd8093b00e5a.bundle": {
+    "size": 1894,
+    "sha256": "991d0b8b4d0d749939168dff3beb28d520e84109ba86e1b58f6073dd21452f72"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_armsexporter.asset_c99f388bda81b4c44a74937c5ee1e753.bundle": {
+    "size": 1857,
+    "sha256": "a75722ee32f896570297efaa117c9f8f9443ceac1587c7d7a89e67b161427f44"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_armsimporter.asset_daef9133c8251c37b2f05db8543527f5.bundle": {
+    "size": 1859,
+    "sha256": "df648968a8bdc0b2031e39662b790d339c5dd58809ca82a87b8a9d1cb86c621e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_authority.asset_8f04f6e3ec6cbd81ff522b97b1b11bf1.bundle": {
+    "size": 1837,
+    "sha256": "db5152acd68ac4d0e6fc3c60423727a892f6c44575e9a00cadc0cee90329d9d0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_azarosdead.asset_ac25597eceb71d668ff72c80b92f283f.bundle": {
+    "size": 1855,
+    "sha256": "5c5c7769126ab5d36f93158047021216ebe5ff9e2363bc141c0d1ef4af19dbdc"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_bells.asset_f7324d7209e0d1d30d82e2c29ea209e2.bundle": {
+    "size": 1898,
+    "sha256": "50672ec7d5d505fcf6b3a6ee5625f2e64136a02012bc5fb49b26a9029053babe"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_blitzkrieg.asset_54f401ac7b348672c3bb09495a7b185e.bundle": {
+    "size": 1853,
+    "sha256": "e088fa8d77145f8fcfdef1ccbfdd752293bfa837b69ee97cfd00478f3da7968b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_bruno.asset_0b5d9b3497daa6d34144e23ebd51e13a.bundle": {
+    "size": 1836,
+    "sha256": "59a232df3bc42c104d12c9171be842c0aa42a15f8503df7d7e5f0b08d17bf1cb"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_caseclosed.asset_c938d5ffb051c22ad93151b8eb573e1d.bundle": {
+    "size": 1843,
+    "sha256": "769602df7d2b38b862e42269877e9cc247b2a7ec84b050aa6132c9ba3323e1e0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectibles.asset_8c714fa0033ad0c9d084b97842fc0e20.bundle": {
+    "size": 1868,
+    "sha256": "5e9a42090fa957b7b82db993d52797a9cc4fa8e3c0654d575397dd5adfa87abf"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_bullfigurine.asset_0ef21762ce88b0af821f51a34a4de8ae.bundle": {
+    "size": 1851,
+    "sha256": "89cb142736360cb19dea011670a4e056d2bd08c57d42139a79c582efe12a53a6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_chesspiece.asset_2a7dd1c562bc55da46fc124183e824d4.bundle": {
+    "size": 1853,
+    "sha256": "1bab9e3633d3b4c2dcb5a421f62d346e080a54454cec7e7d88bf155516457036"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_dastscepter.asset_7d50ab65dc26b331013e71a65d3d1da9.bundle": {
+    "size": 1853,
+    "sha256": "4ac7c0f4b10ba42bc63aaf526be578b4b8c62f02ce1a1c673aad41658cea3785"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_dogtoy.asset_5b6f3690876a7a7f75f460cbdb4b4bda.bundle": {
+    "size": 1853,
+    "sha256": "1414925799ab5270d50c33b2cb25eb22e2d87ffcfa5e987f639f67dbb65ed47f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_fabergeegg.asset_399ee1dbca82591a331ffcaa29b1cdd6.bundle": {
+    "size": 1849,
+    "sha256": "d7fa3c68fc56c971174153f0f8e975d818cc986235744ef51a0161e06dbaf4cd"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_gascorpplaque.asset_00ceb5540db8bd939e30a9984f7ca7d1.bundle": {
+    "size": 1873,
+    "sha256": "05c9a62aba215778129b43bca1aa35f5a7ba5d59de0010b1c098c495b2f0d4d1"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_intermerkopumplaque.asset_beab854b1ba7865d0c538f43ce376609.bundle": {
+    "size": 1872,
+    "sha256": "16ef54c387142747069fbda488c2f2c76d913e2bd6761883d6e32f3d43ff9877"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_izakey.asset_5bffe8e255a76a1c6e4c852d7999f1b2.bundle": {
+    "size": 1847,
+    "sha256": "d388077c7bdb002d20ac3ab7822d2bdd895a1d3d5ec094bc02f3b1a10f8c5be8"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_korontiresortpostcard.asset_f6445d0a155cb4c05f042a2ff0e08f53.bundle": {
+    "size": 1867,
+    "sha256": "14b0bc383d53b67557528da04b3369235c12cad0001ca8a4e032ac7005876348"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_lucitadagger.asset_9a671f8280995c1190c23192cd35918f.bundle": {
+    "size": 1853,
+    "sha256": "6cdd7ec0dd0669cbbb486c68d164ebae34e2bcfdc780f53eec4d796019a7eb5b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_mandragoraextract.asset_88221706937891813cefe742bb6b76a5.bundle": {
+    "size": 1867,
+    "sha256": "80446e1dfe7aaa73f3a23f5a7a0fbc527a34892f5e967d6c2ace5ff1337a7c8c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_mechanicalbird.asset_4e7ccfe3e470f9212bd5d70330f0cd63.bundle": {
+    "size": 1854,
+    "sha256": "994e2b69bb788a5d72c6c3c2642e4b40e6ffe75f690c88600572492ba006eb9a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_miniyacht.asset_0c757b7dae940964e024e8716cd03e2c.bundle": {
+    "size": 1856,
+    "sha256": "c8e9f15c2daa26df585b42b6df4f310bdc905aba636ad3b9051ca033f017034d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_palescrown.asset_c550ceed0ed658f8aa5d103e252d7ef7.bundle": {
+    "size": 1844,
+    "sha256": "5b5896901c174d29e2f37d5e6be7dfc39159670bccab2bd1274e4d5314279004"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_poemscroll.asset_896d03a534f0ff30e8f4a45ca86de4e0.bundle": {
+    "size": 1844,
+    "sha256": "700ecfc92b8a1e47038ab7dfd36d1c23e9d47ed8424b0371257324c7e2a9c531"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_weddingring.asset_5731b5921ab505af41d4af57e51c79fa.bundle": {
+    "size": 1859,
+    "sha256": "17421ede599f7956eeb7be689189fedbe26c59c4fa795b50311891f6d92e7f4e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_wehzekdoorstop.asset_65155bcce401eb9fc46321c64f63f365.bundle": {
+    "size": 1851,
+    "sha256": "444da9efc6a752653cbe87d13a50bc36fd642cefcae4df81ba3417763373db0c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_collectionitem_wruhecistmedallion.asset_73ce04ca64396db0983489223d8970c6.bundle": {
+    "size": 1860,
+    "sha256": "e433329dcf60e98ee21e7dc21a1f43ef00824c668f67c454fd44c3a54f85c405"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_conqueror.asset_db972288c487792d91bdce3ef8fe1248.bundle": {
+    "size": 1858,
+    "sha256": "d17ffbd71c9cf5547e76c2622b82e5ef479cb7f32e79eebe7715b29053cf3491"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_derdianmissiles.asset_365d352e7675b5e5456d320c2ddd1405.bundle": {
+    "size": 1846,
+    "sha256": "cdc03fdd871320ace06d6b4baee469823bc110651cd465094fc5d0bc96f278b4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_dividedrizia.asset_e7d4afdc2e05cf9784f8222e73b575d5.bundle": {
+    "size": 1893,
+    "sha256": "f54a9d4333d20333f547c4b41404a232cebef0a38f6e5d585c8efa259928a648"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_duel.asset_581c598669bc45e01539995ed0f8b6b8.bundle": {
+    "size": 1861,
+    "sha256": "63d9f53c9d5fd169c3335a0ed0d9901d7330fd4369ec99272303b1c1786a563d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_epilogue_civilwar.asset_9703d877a26a8241a665bf3e4e3525f5.bundle": {
+    "size": 1825,
+    "sha256": "fc6c96a43de53ae0fce3330920b8de3fa604ef4cafbdd1d69e21843224a88ef0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_epilogue_continuedreign.asset_1cfc2100ca1a821b1e789203b98c6c4b.bundle": {
+    "size": 1847,
+    "sha256": "236971319c4ce0db84a825a4aa1b2b1f13232e30959cbfd09c39895f748e2e66"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_epilogue_death.asset_7c59e85bc0550994cbe2c6fc03d4ee9f.bundle": {
+    "size": 1824,
+    "sha256": "170a1e53b2739d2c05d6a70a1a5dd6751102dbd8d40f840238131f17ca752eea"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_epilogue_exiled.asset_23602648902dd85f7e6be4dad55d60b9.bundle": {
+    "size": 1831,
+    "sha256": "274133478a887fc9a65f2fe00e065830c3e8a80aa1c0ff3d7600c478209615ef"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_epilogue_prison.asset_40a5b9490614c0e53922ee1ee718ea40.bundle": {
+    "size": 1829,
+    "sha256": "e0ac3e3f111d672f16cf7239ff9dc13cf0d402f8b9463ba10e507f458b5240e3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_ettutitus.asset_9acf1565ea30547bd4eaf620fa324c2b.bundle": {
+    "size": 1868,
+    "sha256": "393f75cf14fc66d2b6c80c10c34f752a5bcd575227c6276b3d7954a865671f9c"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_executions.asset_59e40c36d2f8a16dd3f1a7f57e8152a5.bundle": {
+    "size": 1862,
+    "sha256": "efc05b13ff4cfb2703e2b8420154d47928688e92a5049743c898ce27517e63ce"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_flipoff.asset_789fca3b4a3f308c2c7ba2ad566d874a.bundle": {
+    "size": 1911,
+    "sha256": "1f4525b731ba17518beaf045db8b6b37654ec1e0155705e767b140cd3f5a0248"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_freezille.asset_f550a99bca971dd42fcbd4138c7081de.bundle": {
+    "size": 1885,
+    "sha256": "c1d925fee3fc551a162bf007f4d12ee750439e4e6f229f6685a12371356a9fb0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_funny.asset_3d89472c94bf4704cb791353e4a5af53.bundle": {
+    "size": 1849,
+    "sha256": "946255aa2bdd79f10927ee80e61ab7161f8fa8a8d030ddab250650a80c4c0b45"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_glovurius.asset_7e49c1a2456ee9394a015151c9a8a77b.bundle": {
+    "size": 1845,
+    "sha256": "63e27d565e8bfd769e638293e5558705d59df7019b30beb38d924496ac65c510"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_goldenage.asset_1f72d708d8b6d720b0f9d86558feb5fd.bundle": {
+    "size": 1925,
+    "sha256": "b741d1b9197dcca0fe5f9b476e23aeec8855e49deb78fe8cb972aa31cb7c2c22"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_great.asset_f89031287400652e1bc5e21ae9836420.bundle": {
+    "size": 1850,
+    "sha256": "6d5b77eb87df1ce5a0b31f2a9e3a0fe66371214039126c69a063e0e54e0b0a3e"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_greatunification.asset_7e5017c47c168fd7e3aafff2b9e774b1.bundle": {
+    "size": 1863,
+    "sha256": "e141a84cccc03c2ba75c1f525f0845f5782ca9ef55b133ae45a227d60d052243"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_greenkingdom.asset_d7c561497e7d6bf8ab270200e86c51d3.bundle": {
+    "size": 1964,
+    "sha256": "ea9a7b15b2172696893b373e969550d23ca60dd0a8fdf9b05d5e352dd3af7278"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_growth.asset_3eae9f60244b1c302ef35798ccf78f90.bundle": {
+    "size": 1880,
+    "sha256": "eb134c7185b7609ec63189eb0080ba0e810d7ba8ff3917105db12973d5b41a42"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_halaita.asset_e1b17b745e98c67162f0ee746c288851.bundle": {
+    "size": 1839,
+    "sha256": "1d42973d40f956b7bf64314a1c9c577256985cdf4a80a708904586f79f23c350"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_highproduction.asset_f2ec97d6845fdb928c9ee7025c978b37.bundle": {
+    "size": 1875,
+    "sha256": "cebc19c22dc904563689bcdc8fbf8631db92ba7f54652e6e4fd622a8a68de0a2"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_hightea.asset_58ad32548642d0219a938fde680b8e77.bundle": {
+    "size": 1861,
+    "sha256": "4bc925593ada4096d339df6d7cdb6a824d5de16d3263da8476c789a024135f0d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_housecleaning.asset_a5b94bf78c6e68e6ac7d9f3bc344b06b.bundle": {
+    "size": 1870,
+    "sha256": "fa0cfa40244d43d39c03c1b310ebc224b8f8aa8e33fb646d0cc52d776489dca5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_hugoigo.asset_2ecb30d715b6fc5dca744ab56fe82e78.bundle": {
+    "size": 1854,
+    "sha256": "9d5515fbde5a4850cb7514bfb9d92c97ae580de520f8631988189c7050cfac31"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_intermerkopum.asset_b300668d8c3c8a3b9ab5be46259eb5d7.bundle": {
+    "size": 1846,
+    "sha256": "cc641986189b497e4ddd4a23277647fd043733d0ab4bc4183ed3c8c40a93a2e9"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_khisha.asset_3294972d697dfb50ee3f68e24737d6a6.bundle": {
+    "size": 1875,
+    "sha256": "07f48e13cf152172884e04868cc3e79607a76189005bd836603f0cd386b95360"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_killadarfo.asset_ada8b1d5a58fa595f261c7069a131b27.bundle": {
+    "size": 1894,
+    "sha256": "a721c0ddb171f11e279b9acc085b13370e0341148ea2effd68723dd2d5d63060"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_lawgiver.asset_ccdfe927f050588a61c59101e0679ce5.bundle": {
+    "size": 1853,
+    "sha256": "e730fd011fb47d43650a7e6756e21937d187b2685f634eb1bea601047cbff356"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_leavegrace.asset_1b10c7c4076c968bfa2635c49ff3299e.bundle": {
+    "size": 1854,
+    "sha256": "bbcab3228c9dc7b3f1e9a897b7394d9bc0a114ebfa0d6c4ceb9642fb5e21de1f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_letitrayne.asset_c63947f84573b46d9cdc9bac6e88bc62.bundle": {
+    "size": 1863,
+    "sha256": "7327087e322c5c23f07c797ae544d83479118bc89c5f7d1be6ab1cdaac5e32ff"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_manpower.asset_b92ca56ba9ffe4bbed12b918ff0e3ed3.bundle": {
+    "size": 1845,
+    "sha256": "298b31fa261edc1141d3b710142bbff651e6b42294166deb379dc8048a0e0578"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_momdad.asset_761081fc3b83a84c07961df07ee6104a.bundle": {
+    "size": 1894,
+    "sha256": "269df0f7f35c1db93905ad5d545fa164fedf2e7b5c01ef2cf453f54625fab188"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nationalizedrrg.asset_7e1f970fa4d2049df32e4363ecebeda9.bundle": {
+    "size": 1857,
+    "sha256": "c687ff5d28fa914f0ba09065fc02c6adeaddc05b5f3f91aaa789a157f85571c5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nerve.asset_9eba324f0b7ff1d274f8056dd2d5b4be.bundle": {
+    "size": 1861,
+    "sha256": "329e9cce0abe2fc81db4a0d622bbb1ff2317ffb1d631adc8529974dea7b5b227"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_newheir.asset_19c27ffde08e62d0dfe7e270210a2d05.bundle": {
+    "size": 1857,
+    "sha256": "84e6d702ac6bf3ca111b6441748fdbedcd8c4643c585bfc8e2f58bd4243181a0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nocrisis.asset_12619d64f474f4cc623ff29c8072f163.bundle": {
+    "size": 1846,
+    "sha256": "aa839196eed2bcc00f5c3ff6dc101b5298db9fdce1db9799ed4c8ee35ee27f45"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nopowder.asset_8b459170576e91386f1e0c0967fe1e16.bundle": {
+    "size": 1871,
+    "sha256": "f0ea9016a8b8665d8f0ae7f01860e48adf16a6cd00a1b425e4301c04bdb19d97"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_noromance.asset_e1949c18e2694845f47e380723728f46.bundle": {
+    "size": 1869,
+    "sha256": "fe1e9c3943f0329a04d7c72ecef7cb9de703cf565735d2afaf97cb134c59b15b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nur.asset_6040261f3b8345372878f70a1dc6d666.bundle": {
+    "size": 1847,
+    "sha256": "4a3e9a564792bb5dd0e8bcc104a2811ee1fc02226b0f14445ba556f1d5d3bdaf"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nurdecrees.asset_799dfcae74632cec22f7ab83305975ae.bundle": {
+    "size": 1879,
+    "sha256": "c6074f85a311f01469142539e3948a8ce455c3f28e9fbd7c9c579f3c0f18b735"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_nuristsunited.asset_64d203821fd94d58115e6f74eb315766.bundle": {
+    "size": 1903,
+    "sha256": "a320bf6d5a723d63b7778404e6a2f58fdf1eb830d03a0464e131428c283044c5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_officersazon.asset_cc877c67483091ac5dc2c300ec3698d8.bundle": {
+    "size": 1858,
+    "sha256": "8b6927fff2e1ae3c570f38d6707bef7769be4bcb855e9fe7fe3fdae1d31d1e1d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_outofcloset.asset_cdfeb53ed28da8649311e335c8978062.bundle": {
+    "size": 1855,
+    "sha256": "4674959a031758a14356e550356eab3a40f274265d60e36b182d9f8313247b95"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_palesalliance.asset_7eb20b53db85784875a1ce734483d784.bundle": {
+    "size": 1858,
+    "sha256": "0cf9446d9bc8f9f232e1bd3b522c1dbffad2763ece11950a16386fbd989562f0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_paleswarlost.asset_32d43907c2091deda9252d97271da047.bundle": {
+    "size": 1873,
+    "sha256": "86be62d6539b6a5a195926778d3a8d0f2b5bbf7c51c9363828b45ea30ad336c7"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_paydebts.asset_82de7aa800852d57f1a27acac9ebcbfc.bundle": {
+    "size": 1872,
+    "sha256": "a3e6a170006cec0baf7778657c258c8cce1e55784552d841be2fda41f24ab449"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_pipelinesabotage.asset_fc6d23532ebeff46d1976bf7f585ab41.bundle": {
+    "size": 1859,
+    "sha256": "6730775269acebd4ed5a0dfb6b3b85413ba445572c6e4e8b7c7db2ec3fc6ce65"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_portedrazon.asset_4874106278400f98c88138b527685463.bundle": {
+    "size": 1900,
+    "sha256": "8399fb245f4822aef67d6044b5693d4d3ec0aefef4d7bf78579f685030009400"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_powerprojection.asset_5ad82ee2291aa8660737ab55421601ac.bundle": {
+    "size": 1878,
+    "sha256": "69846b615673d41370a74a7d6c39c95ffbde85aa5eddd4c6952aa6349e0aa7d3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_reform.asset_7bc9bb40ffbba24196dbc35c8d2f8953.bundle": {
+    "size": 1850,
+    "sha256": "5c8b730ecb81c57060d7debedb341e757479324faea6c70dff8a8a9d5c4e100d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_reformordie.asset_6e951bdbd6f73bb81123e8e35a8d59c1.bundle": {
+    "size": 1875,
+    "sha256": "95df6c5da20795d2b130ed51bbe2c02caccb008f0abc81ea872c8062fbbb8700"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_rescuedvina.asset_f6032e88063e35c7714bfbb1ad00c395.bundle": {
+    "size": 1861,
+    "sha256": "5f05e704a923e88098c9433ff5209b2296d8f0a37960c87d92b6a0057b949b59"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_returnoftheking.asset_035863e6184dd1b9e8ee547dc89ed296.bundle": {
+    "size": 1853,
+    "sha256": "2cec9057679aa3b8241bb9334939cae89fe3765c0ed65ddb959d67ee9b85ab4f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_revolt.asset_26bba2da23153f10c35207cd5ffabef2.bundle": {
+    "size": 1853,
+    "sha256": "6bc0c71d5dc5d3971fd1be4a88c7e7f78d62acd145af7e3d42fa8e542294b8e6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_rumvassal.asset_4ce93b9e8cc3fd6634a551692000e18d.bundle": {
+    "size": 1839,
+    "sha256": "37077f1e3981765a454c6cae8c8d9b8128b344ddb9df1410e15488ae5fee45e0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_rusty.asset_b8947ce22406cd23df081e52cb17c127.bundle": {
+    "size": 1878,
+    "sha256": "18cb96ccade2a27b1a7909cc0f1f82ee6ff51e30afe2e24ba94f565e2439792d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_sanctuary.asset_f21c7dba8f0ab6a40b3142aa2f5820ce.bundle": {
+    "size": 1871,
+    "sha256": "6b70e61253f979276d6903ad71728c08e11d0a9bf8750520bba45e51f83d94d4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_saymyname.asset_ddf1a252e2c34aee2d6de4f4b0138def.bundle": {
+    "size": 1862,
+    "sha256": "685303fedb95efd78818d23129d0b95af8a58ca128b6e8d3618bc7351dfdc2b1"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_sober.asset_36b3a595159ed0a588aee67746477f2b.bundle": {
+    "size": 1847,
+    "sha256": "956a2fcc82016abfb721d204edb3439144ecfae58d36cf0f4541e157bbde1488"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_sordland.asset_4ab7c6d54c2c27151e33dc31c5571be0.bundle": {
+    "size": 1880,
+    "sha256": "88fa72d70779ac2e9ce2639a488ce7cbffb1147327bb39219f4d0e23f70815c0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_sordvictory.asset_a245d2a52bd93594b3ef28a1c26f0599.bundle": {
+    "size": 1896,
+    "sha256": "5d09c01c4626fa55267b39aa3bf98303df962499474c2c59e50af7d104673c4f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_sotelato.asset_940113b768a67a68ba39828128589f8c.bundle": {
+    "size": 1857,
+    "sha256": "5c31de97923f8b25dab121e8f203689c764b4e3ee3884a18fca3214e229af07a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_theocracy.asset_e36e95c442dec10a4ce7a778e9dc7b93.bundle": {
+    "size": 1847,
+    "sha256": "10aac72771d136c6d546005f637545c3b34af7edc8f316e8c85d113210c53b3f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_tradition.asset_4faec7f02f00c5e553dac8bdb7dd2900.bundle": {
+    "size": 1909,
+    "sha256": "6ce366ac15842fe3b7d6f76d9d212a0eafc2540779bc017d11a804ee302c4fe8"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_ufo.asset_5829b2572f8d9c8de4388e391372d54e.bundle": {
+    "size": 1859,
+    "sha256": "c4f19f2836cf75902876858509e191e4a6e472a6bda0a6e19426a5baac50ab91"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_valerosaved.asset_05c9e65d1ac3616bc391d6c7f0f1728a.bundle": {
+    "size": 1913,
+    "sha256": "3b7b8ed9dfba41b20b87b6a08cf29f6b276eed6c0374cc33672eefb6c4c2c3ec"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_weddingring.asset_1dee6f208e1e0287c0f955f0aa4e9306.bundle": {
+    "size": 1877,
+    "sha256": "c8254c119a8a3e7a27b9a9dcdc7c6822799c9d33f4b58ef1c019a2fb1f485f03"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_workers.asset_e3a208c29c32f9721b36f1f105d97b0f.bundle": {
+    "size": 1926,
+    "sha256": "75f4ec133c84ec87f2f2f6754110a83ea31ec197ee3196dc0b2ff99ba217d914"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_rizia_zillereturn.asset_d51bb33e7a73db2c1469c9d0e6d8a04f.bundle": {
+    "size": 1926,
+    "sha256": "6a0e98695dae2498cdec97ac1633ae96a8452773b5b848d5f37a77088b505e67"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_riziachapter1_finish.asset_4bf51ec193c284a8c39167700f8a1ea2.bundle": {
+    "size": 1860,
+    "sha256": "9cc2e07ff278670b804c97f00bd5987e647696dab5d48f0466bdbf9e868f2828"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_riziachapter2_finish.asset_75441253caed566cbeec993f1a656b0f.bundle": {
+    "size": 1866,
+    "sha256": "e98dd6d2a0452ceeb7e2d2d6d6ec975d32e677cb06223d4901b162bc9e6bb4a4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_riziachapter3_finish.asset_70dff17f8e135713cc85611e3ff151db.bundle": {
+    "size": 1864,
+    "sha256": "b64baee8e78997661884c60657a3c50522d71a18eaf031c475fecbaad7fcfe4d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_riziachapter4_finish.asset_090fe8f7d198345c9471ca86ef5b8baa.bundle": {
+    "size": 1859,
+    "sha256": "d81b5a2a51cfe63b409587e97fd0cb8e85bf0d5898dfe393dc1125bba79c157f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/achievements_assets_assets_addressableassets_achievements_riziaprologue_finish.asset_e69303df92e16f92cb8fe40dc12ad960.bundle": {
+    "size": 1866,
+    "sha256": "3e6abbe64aac82e41ee5ce8285578f36db7fae9bbc57a95c0f81f60344e9849f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/commonassets_assets_all_8bc088c71e1a5fb788e9e9486f6855f1.bundle": {
+    "size": 156351764,
+    "sha256": "6018c8a37ef9de72ab698ecd3fa8d45c475fb8097b92439f972bbfcc2dd66934"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/database_assets_all_2c5c6df453acd4d096b216389ddafa9b.bundle": {
+    "size": 16380316,
+    "sha256": "a80f206bed5d23963a776bf9c317be730db7398009c030ca8a3c048a7a5230ad"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_database_entitytextassets.asset_ec95223fa5819b4eb4d612c0ee4914b6.bundle": {
+    "size": 4870499,
+    "sha256": "0c5030dec2eda4768832310eb471160644364a24c9201ad487b47a3b6edb82bc"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_prefabs_rizia_environment_rizia_default.prefab_39c35f3cac214fa9a51ee4bad8b719d2.bundle": {
+    "size": 14199350,
+    "sha256": "1adaf71824953c62b25abcfcc8b5f734ef772525713d9e4bf32a713815cb6c5d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_assets_prefabs_rizia_war_war.prefab_ec3387f6e67d1481ae60435a4be3d855.bundle": {
+    "size": 3014173,
+    "sha256": "ac9ed6f134975faba82aa17661e6cf7bb503f07650557c5b0a84d88191f8adf7"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/storypack_rizia_assets_all_9e2bce0cd84b392326dad3d05cce5c2f.bundle": {
+    "size": 6151764,
+    "sha256": "4ce0e97a09dd2beb65bb1cb1c30abf6df6dd23f7de8009ecf194556d3beb49c2"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_objective_destroyenemysupplyhub.asset_ae92d846c7857a73b72023239716bb9d.bundle": {
+    "size": 1754,
+    "sha256": "3a95d98e3f80a2beba688d882697a9b0350075ffa1d088c30951668d0e6fcdc7"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_objective_rescuespy.asset_3d5a3b81ae5e829bd10ab2398249278e.bundle": {
+    "size": 1766,
+    "sha256": "c06f06cfbdd8aecd28683fe5a485b0ed34671ee68a66345d34c3ff8af39b7120"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_objective_rescuespy2.asset_493b539a71decc7ef1083452034d2bb3.bundle": {
+    "size": 1769,
+    "sha256": "a79996e1d136a44ab32908de97b016ccdeac00b09967cad98517137f7d39f620"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_objective_secretnavalbase.asset_c88bee08fc81501e8d82aa9e160f14c0.bundle": {
+    "size": 1768,
+    "sha256": "374968c6150bdec189341036a5a30519d4d709da89771a950287d7802dfc9684"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_objective_vina.asset_fbbb44caed43f60c6d172538ce0d140a.bundle": {
+    "size": 1759,
+    "sha256": "7a3c20208ec97de35171d72308085f5f7461d8bf93da6694d7e6364d9ed55ebb"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_objective_vina2.asset_6b490b36fc5e1ac8a2fec244d9d341ba.bundle": {
+    "size": 1759,
+    "sha256": "2a8f1772697f6477540adcdba8bb41dca3ec15d20ca378e7d78789c8345bbbf2"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warobjectives_assets_assets_addressableassets_war_objectives_tutorial_objective_capturecity.asset_efbc3487117ae07122fe8bd4a40633a5.bundle": {
+    "size": 1764,
+    "sha256": "d7f4882d7897e80c455c3fd10ad62f128e337a77884cd9dce3fffdd5780db5bf"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_airunit_bomber.asset_9722064a1cb7b9a058a303a27e635b8d.bundle": {
+    "size": 2690,
+    "sha256": "4ff85b927a2773a9c71db3e7b8685d907ceed75e01986327dde170ad5f7372d1"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_airunit_support.asset_60113ae22605d28f0eb6392ba5ebb165.bundle": {
+    "size": 2681,
+    "sha256": "a64c1dcda87e1e77f738600fb4ebd41e355b18cce3bd38c355218ffab3a1cc54"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_arces.asset_83498445feb4b65fcf10df0b0981d9ee.bundle": {
+    "size": 4653,
+    "sha256": "a4b86d58fd8a0094c038c4c0bafcf048771f275fbff0f6b91d11f552e77b99a2"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_fortales.asset_4fcb4f44eae1becaa3f5891f9ec55f03.bundle": {
+    "size": 4684,
+    "sha256": "43e548431afcb34883dddd7765b7627c768cc26747a5becd44748a8c94aeffad"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_pales.asset_8317153a05647caa5659f891b406f879.bundle": {
+    "size": 4734,
+    "sha256": "3262a377c2f512d448a824d79280cb40a88facb29864722f0f8124cde10d2fd7"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_remaz.asset_3980e5624ee698a37be8f1767eaaf225.bundle": {
+    "size": 4686,
+    "sha256": "cd06d00e24cd54599d3be97a7ffb089db1b2cfe2771c16c17938f6d14695f21f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_solles.asset_fefcf56cbae788331fec887eb15e1221.bundle": {
+    "size": 4658,
+    "sha256": "2fbb3ed52b71ef3f3b354ef5d701ab88e0eb52847961ea31fd3a6667ff508fab"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_terador.asset_3fc7eb6611a4e487895f37bfd2c7dae4.bundle": {
+    "size": 4681,
+    "sha256": "36941f011fbe7ae994634f27d6c540b6097a6059d70b4d5e2463e00e3791eaf3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_tutorial.asset_7fb7ed13320c4f8e6f34d69cf7d835e6.bundle": {
+    "size": 4613,
+    "sha256": "0303b0bad711a20127797ddaf0df92c44acfc5c14f1c1489de1ccc1ee6aef203"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_city_ziqes.asset_4e6ced6246f377090485cc214743d5bb.bundle": {
+    "size": 4683,
+    "sha256": "8fd235a0c24b351638f7b5f8a0994105d9f8ab7f474e947a8f12d008cf28bb08"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_armor.asset_f4a2e0776fea7610d1e5e42ea20fe16d.bundle": {
+    "size": 299697,
+    "sha256": "c71b592e48a0fec394e152c2ee4a8c33a7b49e5c0d1a0c1662b3c54b7e29bf90"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_infantry.asset_294686b326afc795261b6f0b32988444.bundle": {
+    "size": 2835,
+    "sha256": "cbf05ea314e7fb3c22f2cc82bc0b5d1d9206c2db7a212cb16f2543b9dd87f84d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_militia.asset_7d87a959d15cabe022cc5e73af23a0bf.bundle": {
+    "size": 863029,
+    "sha256": "2db917e861b61a6b4211491474246b320b555179482c2b19e499edfcb2b82ae3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_paratrooper.asset_18d3f5f905cca680bbee40c6777e639a.bundle": {
+    "size": 2533856,
+    "sha256": "56e439f948ac6e9df0798d50382827f6a06078f67ac29c265d489d8ddad7c521"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_goldenguard.asset_ecb7e5a7b4219237c4bbce1f4d0107b8.bundle": {
+    "size": 865385,
+    "sha256": "05a0341da9c0bfc007420b3ee02ac8bc36d2f69c73ba7bf1e4e69fbdf90a958f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_houseazaro.asset_0c55c1532a88130bd38b7887ab56ef74.bundle": {
+    "size": 865426,
+    "sha256": "6602e436f3ad38fdf2e85c02d66f90d4b978587169e3982610f25880a63429a4"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_housesazon.asset_b5bfae1834c4f65b7906d4715e79129e.bundle": {
+    "size": 865406,
+    "sha256": "60a01da61fbb6a86f8abc3cff18c3bd73a6546baad0fee366177cda183907dc6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_housetoras.asset_0f443640ecfc7a833fb4e7142edf16f1.bundle": {
+    "size": 865425,
+    "sha256": "be6fe84fb78f91dab6976d344453bbc1c8e5100f1c5a991efdecf6ed5a6236e6"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_marine.asset_bd76c07d8e9146a1911b9db1b41b4404.bundle": {
+    "size": 5152540,
+    "sha256": "b013226a8b6b1b6ad43e216ea8a2555e741b375fd068e6e655f54624e1380a2d"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_mercenary.asset_7d71b16cc497891f57d3f7c2b56fb67b.bundle": {
+    "size": 863018,
+    "sha256": "a8f24b7456d3595fba58f8eedf202453fbe298cc85881c84e9357f5ec7a18fd5"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_special_mountaineer.asset_2c2641f2d1b9fe9a6fc5cd59c5a3cd56.bundle": {
+    "size": 880771,
+    "sha256": "adbe891f47a65c5032f39591e6a42f3297c8f434ebc0a481affdf2baf85b5729"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_landunit_support.asset_309fdd6ef453c7581abe630f95e27ca7.bundle": {
+    "size": 312594,
+    "sha256": "c212fa51c5c65170f15c4d4366fd7678aefd31aee47d556bafba89792433061f"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_navalunit_flagship.asset_5682a76ce046532c153c98136f6e0662.bundle": {
+    "size": 896342,
+    "sha256": "8a3e6c75944ed7dcf1e27f9941e3dad3588c60f3b4efc365e5145951da6f1ae3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_navalunit_militaryship.asset_e8cfab0770ece56e2ec7ed59aec2d49c.bundle": {
+    "size": 74555,
+    "sha256": "9dfd0608313cbf6d164129373338d5312c17a1a514d5f2d34020c93564b5f48b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/warunitytypes_assets_assets_addressableassets_war_unittypes_navalunit_submarine.asset_ea337c5b3ab3c9037fb66e86797b1225.bundle": {
+    "size": 873527,
+    "sha256": "b51e8a0d0800999ab2575b8c6fd0e83f4613db7e2cf30a0708f4cf40ca38cc37"
+   }
+  },
+  "Suzerain_CN_Plus_TutorialImages_SteamWin_2026-10-10": {
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_actionpoints.png_2b94b807e80619279c1812bed5546206.bundle": {
+    "size": 607107,
+    "sha256": "d6ae11857ae0f1ad515bdd92063c36e072f444b961c0bd85a3aeb78f4d065278"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_attack.png_de6447dc4d9dd1d4b1b4b25ea7dd4c4a.bundle": {
+    "size": 640549,
+    "sha256": "5fe66a22a92d207713ef13c283afc6813e43af994a267f0a57d7d2f2f13b19bb"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_bombing.png_2ccd869240404cdc8738a52e475bd94f.bundle": {
+    "size": 745574,
+    "sha256": "a4370bd773303769b0a277dceef1a84bd0dd887947d2565cebceec24067df0f0"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_fortify.png_7b3a2471a874d0a1c22944820a7fa10d.bundle": {
+    "size": 594373,
+    "sha256": "141baeac19dd10df053c0f45822f6631471a2e4eed8fa8694cc3cd7b91540bb2"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_movement.png_1a2c8171f2a8c5b3085648c1ad098c8c.bundle": {
+    "size": 637384,
+    "sha256": "37a2741455b921605fae482434d8021f93668463b5b6b2c22ad081dbc7ff429a"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_navalbattle.png_2d3b552427f1655b0dc80ceb5628cb0d.bundle": {
+    "size": 503035,
+    "sha256": "dd131b3a17b073dcd625982bfcd940d0ebd3acf3dad12123f7c47f2db68a31c3"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_navalinvasion.png_f21d4b236751bee3273a6bf649ead89f.bundle": {
+    "size": 392579,
+    "sha256": "249ed1efcdb7e9ac79fb245864eb2b07dc6779adb486caa745bd05e5217a4310"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_navallandsupport.png_74577703012773afd4c76f7c497bdac7.bundle": {
+    "size": 536445,
+    "sha256": "532e8545483ec53d77e78113e20157420fb12077b884b62c76f8aba78678b36b"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_navalmove.png_2447d15a13efa360dec2d52869f08155.bundle": {
+    "size": 522286,
+    "sha256": "5bda3f5a1dfa9ffce5f6cf22f3cd24fa8688972009594cfc5a0da35d181ab498"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_placingunit.png_36698be9fe31da5fe8aa70e843ddcff8.bundle": {
+    "size": 613367,
+    "sha256": "4d066d0ca732e23bb27682f25643d227d475fbfc139d70c74190653aab99f6a9"
+   },
+   "Suzerain_Data/StreamingAssets/aa/StandaloneWindows64/tutorial_assets_assets_addressableassets_tutorial_tutorial_war_support.png_1f3c66e799460a7e593cf3180cdad6a9.bundle": {
+    "size": 596033,
+    "sha256": "4d68278193a6ceb1ef09a85a1c00c350ccdd2cefa14949701936c29649d7dc19"
+   }
+  }
+ }
+}

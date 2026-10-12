@@ -1,0 +1,55 @@
+base patch: 30 bundles, 114954 distinct Chinese lines (92827 long)
+
+file                                  long  exact  >=.95  .8-.95  .6-.8    <.6 | short exact / short
+ent_fixes.json                           0      0      0       0      0      0 | 0 / 12
+ent_force_01_stale.json                559      0      0       1      5    553 | 0 / 5
+ent_text_01_names.json                  22      0      0       1      1     20 | 8 / 242
+ent_text_02_maptokens.json              39      0      0       0      0     39 | 0 / 0
+ent_text_03_codex_a.json                34      0      0       0      0     34 | 0 / 0
+ent_text_04_codex_b.json                28      0      0       0      0     28 | 0 / 0
+ent_text_05_codex_c.json                33      0      0       0      0     33 | 0 / 0
+ent_text_06_news.json                   60      0      0       0      0     60 | 0 / 3
+ent_text_07_misc.json                   18      0      0       0      0     18 | 0 / 3
+stage0.json                             40      0      0       0      0     40 | 9 / 90
+stage2.json                            150      0      0       0      1    149 | 0 / 257
+stage3.json                             97     10      0       0      1     86 | 132 / 584
+stale_accept.json                        0      0      0       0      0      0 | 0 / 0
+stale_fields_manual.json                88      0      0       1      0     87 | 0 / 4
+stale_manual_paras.json                 27      0      0       0      0     27 | 0 / 0
+stale_paras_01_rumburg_grace.json       44      0      0       0      0     44 | 0 / 0
+stale_paras_02_wehlen_sordland.json     33      0      0       0      0     33 | 0 / 0
+stale_paras_03_people_reports.json      27      0      0       0      0     27 | 0 / 0
+stale_paras_04_news_codex.json          23      0      0       0      0     23 | 0 / 0
+stale_paras_05_late.json                 2      0      0       0      1      1 | 0 / 0
+stale_var_01.json                       44      0      0       0      0     44 | 0 / 0
+typo_rules.json                          5      0      0       0      0      5 | 0 / 94
+TOTAL                                 1373     10      0       3      9   1351 | 149 / 1294
+share of long lines with similarity < 0.6: 98.4%
+
+long lines that equal a base-patch line exactly (10):
+  stage3.json            人民自由与正义党代表
+  stage3.json            人民自由与正义党领导人
+  stage3.json            伊扎公爵，雨果·托拉斯的儿子
+  stage3.json            全国商业委员会联合主席
+  stage3.json            加松能源董事长&前总统
+  stage3.json            帕特里西奥·阿尔瓦雷斯
+  stage3.json            独立议员和索德兰工会领袖
+  stage3.json            索德兰之心首席执行官
+  stage3.json            里齐亚皇家黄金公司首席执行官
+  stage3.json            阿尔弗雷德·克西尔布克
+
+long lines with similarity >= 0.6 (12):
+  0.84  stale_fields_manual.json       索德兰有两条通往未来的道路，今年是决定我们走上哪条道路的关键。在经济衰退的背景下，伯纳德·切尔克斯的去世导致的稳定性和安
+  0.84  ent_force_01_stale.json        索德兰有两条通往未来的道路，今年是决定我们走上哪条道路的关键。在经济衰退的背景下，伯纳德·切尔克斯的去世导致的稳定性和安
+  0.80  ent_text_01_names.json         总理帕特里西奥·阿尔瓦雷斯
+  0.70  stage2.json                    加入阿卡西亚条约组织
+  0.68  ent_force_01_stale.json        由于安全问题，安东·雷恩总统在埃瓦尔德·阿方索和保镖谢尔盖·沃尔克纳的陪同下，不得不乘坐直升机迅速离开在纳贝尔加松设施举
+  0.66  ent_force_01_stale.json        埃洛里警察局长要求罢工者立即解散，否则将采取强制措施，法官与律师随即散去。莫格纳部长发表声明称，她与同僚们同样忧心忡忡，
+  0.63  ent_force_01_stale.json        本周，里齐亚人民党 和其他多个反对派团体在里齐亚各大城市组织了大规模集会，吸引了大量民众参加。数十万人要求获得选举政治领
+  0.63  stage3.json                    王室下令在布雷纳斯省的贾莱斯建造一座尖端轰炸机工厂。该设施将专注于生产先进轰炸机，旨在增强王国的空中进攻能力。生产的机型
+  0.61  stale_paras_05_late.json       在一次电视采访中，凯萨罗·基宾纳谴责雷恩总统解除对布尔德自由党的禁令，称该党是“旨在摧毁索德兰国家的分离主义政治运动”。
+  0.61  ent_force_01_stale.json        在一次电视采访中，凯萨罗·基宾纳谴责雷恩总统解除对布尔德自由党的禁令，称该党是“旨在摧毁索德兰国家的分离主义政治运动”。
+  0.60  ent_force_01_stale.json        里齐亚情报部门报告称，阿扎罗家族 的重要成员昨晚在 蒙塔克拉 的阿扎罗宫召开了一次秘密会议。驻 帕雷 前线的重要军事指挥
+  0.60  ent_text_01_names.json         最高智者约尔加·阿兹马尔
+
+done in 20 s

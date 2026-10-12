@@ -1,0 +1,16 @@
+{
+ "_comment": "构建 TutorialImages / MapLabels 需要一个固定版本的 Noto Serif SC 可变字体（SIL OFL 1.1）。它不在 git 仓库里，而是本仓库 Release「fonts-v1」的附件（请不要删除这个 Release）；build.py 下载后核对大小与 SHA-256，下载失败时退回 fallback（官方 noto-cjk 2.003，固定在某个提交上）。",
+ "font": {
+  "file": "NotoSerifSC-VF.ttf",
+  "size": 25129160,
+  "sha256": "a4aed9985a5916fbf6690456f8732a9fccd517938e353165d4142b4f11a39280",
+  "url": "https://github.com/UCAS-ZTC/Suzerain-zh-CN-Completion/releases/download/fonts-v1/NotoSerifSC-VF.ttf"
+ },
+ "fallback": {
+  "file": "NotoSerifSC-VF.noto-cjk-2.003.ttf",
+  "size": 25125232,
+  "sha256": "5326cfb097e3ab26fcb39329752b5c0a439bf8d5c4649520e4b492939c352a09",
+  "url": "https://raw.githubusercontent.com/notofonts/noto-cjk/9b0f1436e455d902de067a2501422e5dc71ad16b/Serif/Variable/TTF/Subset/NotoSerifSC-VF.ttf",
+  "note": "官方 2.003 版与实测字体几乎一样：53 张地图贴图里只有 3 张各有一个字形附近的几十个像素不同（对应 MapLabels 的 3 个 bundle），TutorialImages 不受影响；肉眼基本看不出，但逐字节校验会列出这 3 个文件。"
+ }
+}

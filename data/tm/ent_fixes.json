@@ -1,0 +1,29 @@
+[
+ {"scope": ["CodexEntries.Description", "News.Description", "News.Title", "Reports.Description", "Reports.Title"],
+  "old": "Ekonomitors", "new": "经济学人"},
+ {"scope": ["CodexEntries.Description", "News.Description", "News.Title", "Reports.Description", "Reports.Title"],
+  "old": "Ekonomists", "new": "经济学人"},
+
+ {"scope": ["CodexEntries.Description", "News.Description", "Reports.Description"],
+  "old": "《Radical》", "new": "《激进者报》"},
+ {"scope": ["News.Title", "Reports.Title"],
+  "old": "Radical记者", "new": "《激进者报》记者"},
+ {"scope": ["News.Title", "Reports.Title"],
+  "old": "Radical编辑", "new": "《激进者报》编辑"},
+
+ {"scope": ["CodexEntries.Description", "News.Description", "News.Title", "Reports.Description", "Reports.Title"],
+  "old": "Geopolitico", "new": "地缘政客"},
+
+ {"scope": ["CodexEntries.Description", "News.Description", "DLCCollectionItem.Title"],
+  "old": "Vulpitzer", "new": "沃尔皮策"},
+
+ {"scope": ["JournalEntries.Description"],
+  "old": "GRACE", "new": "皇家商业交流联盟"},
+
+ {"scope": ["Reports.Description"],
+  "old": "\n\nn面向", "new": "\n\n面向"},
+ {"scope": ["News.Description"],
+  "old": "RIzia", "new": "Rizia"},
+ {"scope": ["News.Title"],
+  "old": "vs", "new": "对阵"}
+]

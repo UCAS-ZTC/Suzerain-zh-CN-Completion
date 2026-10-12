@@ -1,0 +1,9 @@
+# build scratch and outputs: they contain game data and must never be committed
+_work/
+out/
+__pycache__/
+*.pyc
+*.bundle
+*.zip
+# the pinned font is a Release asset, not part of the repo (a local copy may sit here for the maintainer)
+assets/fonts/*.ttf

@@ -1,0 +1,41 @@
+# -*- coding: utf-8 -*-
+"""Rumburg (English-style) place names: T_Map_RumburgWar_01/02 and the Rumburg part of the Sordland tiles.
+Sound transliteration; -ston 斯顿, -ford 福德, -bury 伯里, -wick 威克, -ley/-lea 利, -thorpe 索普, -bourgh 堡, Thorn 桑 (as 桑堡)."""
+NAMES = {
+    # --- RumburgWar_01
+    "GASCHAST": "加斯查斯特", "Gaschaster": "加斯查斯特", "Sicklestonfort": "西克尔斯通福特", "Hawkston": "霍克斯顿",
+    "Holymarsh": "霍利马什", "Market Guildwike": "吉尔德威克集市", "Little Wesday": "小韦斯迪", "Otterbury": "奥特伯里",
+    "Upper Thornhurst": "上桑赫斯特", "Netherton": "内瑟顿", "Shrineston": "施赖恩斯顿", "Kingsfieldston": "金斯菲尔德斯顿",
+    "Oulby": "乌尔比", "Threeway": "特里韦", "Oldthorpe": "奥德索普", "East Owlmere": "东奥尔米尔",
+    "Graydon Otterford": "格雷登奥特福德", "Herfield": "赫菲尔德", "Uthredston": "乌瑟雷兹顿", "ROYALTON": "罗亚尔顿",
+    "Runcastle": "伦卡斯尔", "Moorheath": "穆尔希斯", "Hazelhorn": "黑泽尔霍恩", "Queehsfleld": "昆斯菲尔德",
+    "Queensfield": "昆斯菲尔德", "Market Ashwick": "阿什威克集市", "Livingston Castle": "利文斯顿城堡", "Bronzebeck": "布朗兹贝克",
+    "Ashbourgh": "阿什堡", "Thornport": "桑港", "Monkhanger": "蒙克汉格", "Ironport": "艾恩港", "Kilblair": "基尔布莱尔",
+    "GreatRiverwood": "大里弗伍德", "Great Riverwood": "大里弗伍德", "Greenbridge": "格林布里奇", "Minerston": "迈纳斯顿",
+    "BottomwickFalls": "博顿威克瀑布", "Bottomwick Falls": "博顿威克瀑布", "Marshby": "马什比", "Kaldley": "卡德利",
+    "Lower Easthaven": "下东黑文", "Carmath": "卡马斯", "Milllea": "米尔利", "Guildhili": "吉尔德希尔", "Guildhill": "吉尔德希尔",
+    "Derdeway": "德德韦", "Loxleawell": "洛克斯利韦尔", "Newich": "纽伊奇", "Bfixton": "布里克斯顿", "Brixton": "布里克斯顿",
+    "Greytown": "格雷敦", "Waterhill": "沃特希尔", "Archill": "阿奇尔", "Steelston": "斯蒂尔斯顿", "Sourpeton": "索佩顿",
+    "Little Blackchester": "小布莱克切斯特", "Brushwood": "布拉什伍德", "Rosemaryshall": "罗斯玛丽霍尔", "Eagleston": "伊格尔斯顿",
+    "Burd": "布尔德", "Gateshall": "盖茨霍尔", "Leton": "莱顿", "Lodern": "洛代恩", "Slojren": "斯洛伊伦", "Forwitz": "福维茨",
+    "Ky6rnen": "基约嫩", "Rizer": "里泽尔", "Warfurt": "瓦尔富特", "Kyatsna": "基亚茨纳", "Dur": "杜尔", "Zolbuk": "佐尔布克",
+    "Ozyrnen": "奥济尔嫩", "Sjalka": "西亚尔卡", "Erzaren": "埃尔扎伦", "rzaren": "埃尔扎伦", "Wydok": "维多克",
+    "Karscht": "卡尔施特", "Kakhdo": "卡赫多", "Mahrnen": "马尔嫩", "Osren": "奥斯伦", "Wyod": "维奥德", "Gdomno": "格多姆诺",
+    "Yusa": "尤萨", "Brudnau": "布鲁德瑙", "Kracfurr": "克拉克富尔", "Arlea": "阿尔利亚", "Grelsk": "格雷尔斯克",
+    "Trowdny": "特罗德尼", "Wehnau": "韦瑙", "Bolerd": "博勒德", "Gdanzren": "格丹兹伦", "Egaren": "埃加伦", "Dziak": "贾克",
+    "Moncher": "蒙彻",
+    # --- RumburgWar_02
+    "Marceth": "马塞斯", "Birchhurst": "伯奇赫斯特", "Urfalk": "乌尔福克", "NORTHUMSHIRE": "诺瑟姆郡", "Northumshire": "诺瑟姆郡",
+    "Dummerehall": "达默霍尔", "Goldthorpe": "戈尔索普", "Aethelsway": "埃瑟尔斯韦", "Hoverings": "霍弗林斯", "Oxeton": "奥克斯顿",
+    "Abbotston": "阿博茨顿", "Oxebrook": "奥克斯布鲁克", "Blackwick": "布莱克威克", "Norlea": "诺利", "Ovet": "奥维特",
+    "Darkwell": "达克韦尔", "MAGGS": "马格斯", "Maggs": "马格斯", "Eastbourgh": "伊斯特堡", "Henwike": "亨威克",
+    "LittleSouthford": "小索斯福德", "Little Southford": "小索斯福德", "Nutham": "纳瑟姆", "Newleigh": "纽利",
+    "Kingscross": "金斯克罗斯", "Illwell": "伊尔韦尔", "Port Easton": "伊斯顿港", "Proudston": "普劳斯顿",
+    "whiteriver": "怀特里弗", "Trejke": "特雷克", "Huhtsbrook": "赫茨布鲁克", "Oakde": "奥克德", "ARSBOURGH": "阿尔斯堡",
+    "Dubsdert": "杜布斯德特", "Rouels": "鲁埃尔斯", "Retterport": "雷特港", "Craast": "克拉斯特", "Woolhill": "伍尔希尔",
+    "Langser": "兰格瑟", "AFORT": "阿福特", "Afort": "阿福特", "Bredemggen": "布雷德马根", "Albojd": "阿尔博伊德",
+    "Laagstal": "拉格斯塔尔", "Tordhem": "托德海姆", "Mojnagen": "莫伊纳根", "Lerry": "勒里", "Rotterzie": "罗特兹",
+    "Maasloopen": "马斯洛彭", "Dijkmaar": "迪克马尔", "Stokvo": "斯托克沃", "Anderlem": "安德勒姆", "Zeedrecht": "泽德雷赫特",
+    "Kristallheim": "克里斯塔尔海姆", "MARKIANSEA": "马尔基安海", "Markian Sea": "马尔基安海", "WILPORT": "威尔港",
+    "Wilport": "威尔港", "Wilben": "威尔本", "HAELM7": "海尔姆", "Haelm7": "海尔姆",
+}
